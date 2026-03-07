@@ -1,9 +1,2 @@
-Hello world!
-This is a new line.Append operation taking place!
- Append operation taking place!
-Append operation taking place!First lines
-Second line
-Third line
-First lines
-Second line
-Third line
+Hello world~
+This is a new line
