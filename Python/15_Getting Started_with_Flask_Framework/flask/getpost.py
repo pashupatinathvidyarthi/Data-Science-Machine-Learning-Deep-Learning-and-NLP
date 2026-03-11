@@ -22,7 +22,8 @@ def about():
 @app.route('/form',methods=['GET','POST'])
 def form():
     if request.method=='POST':
-        pass
+        name=request.method['name']
+        return f"Hello {name}!"
     return render_template('form.html')
 
 if __name__=="__main__":        ##This is entry of any .py file
