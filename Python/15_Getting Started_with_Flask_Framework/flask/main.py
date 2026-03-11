@@ -9,7 +9,7 @@ app=Flask(__name__)
 
 @app.route("/") ## / means home page of web page
 def welcome():
-    return "Welcome to this best Falsk.This should be amazing course"
+    return "<html><h1>Welcome to the Flask</h1></html"
 
 @app.route("/index")
 def index():
