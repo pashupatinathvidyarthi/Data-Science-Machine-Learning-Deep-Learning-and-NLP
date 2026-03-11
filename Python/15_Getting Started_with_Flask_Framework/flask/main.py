@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask,render_template 
 
 """
 It creates an instances of the Flask class,
@@ -13,7 +13,7 @@ def welcome():
 
 @app.route("/index")
 def index():
-    return "Welcome to the index page"
+    return render_template('index.html')
 
 if __name__=="__main__":        ##This is entry of any .py file
     app.run(debug=True)   ## debuge=True means website getting update dynamically as we made chnage in the file   
