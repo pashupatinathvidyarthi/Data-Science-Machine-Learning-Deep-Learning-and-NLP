@@ -16,4 +16,10 @@ def index():
     return render_template('index.html')
 
 if __name__=="__main__":        ##This is entry of any .py file
-    app.run(debug=True)   ## debuge=True means website getting update dynamically as we made chnage in the file   
+    app.run(debug=True)   ## debuge=True means website getting update dynamically as we made chnage in the file
+
+
+"""
+To redirect to the paticular html file we need to create templates file inside 
+flask and inside templates file html file name should be 'index.html' 
+"""   
