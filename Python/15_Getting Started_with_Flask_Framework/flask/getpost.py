@@ -22,7 +22,7 @@ def about():
 @app.route('/form',methods=['GET','POST'])
 def form():
     if request.method=='POST':
-        name=request.method['name']
+        name=request.form['name']
         return f"Hello {name}!"
     return render_template('form.html')
 
