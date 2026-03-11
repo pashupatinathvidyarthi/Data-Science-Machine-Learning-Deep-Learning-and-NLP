@@ -15,6 +15,10 @@ def welcome():
 def index():
     return render_template('index.html')
 
+@app.route("/about")
+def about():
+    return render_template("about.html")
+
 if __name__=="__main__":        ##This is entry of any .py file
     app.run(debug=True)   ## debuge=True means website getting update dynamically as we made chnage in the file
 
