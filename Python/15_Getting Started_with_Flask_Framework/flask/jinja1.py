@@ -56,7 +56,7 @@ def success(score):
 
 ## Varibale Rule
 @app.route('/successres/<int:score>')
-def success(score):
+def successres(score):
     res=""
     if score>=50:
         res="PASSED"
