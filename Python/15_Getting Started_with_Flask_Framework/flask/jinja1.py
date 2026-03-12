@@ -78,9 +78,9 @@ def successif(score):
 @app.route('/fail/<int:score>')
 def fail(score):
     
-    return render_template('result.html',results=score)
-@app.route('/getresults')
-def get_result()
+    return render_template('getresult.html',results=score)
+@app.route('/GET_SUBMIT',methods=['POST','GAT'])
+def Get_SUBMIT():
 
 
 if __name__=="__main__":      
