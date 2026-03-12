@@ -53,5 +53,20 @@ def success(score):
         res="FAILED"
     return render_template('result.html',results=res)
 
+
+## Varibale Rule
+@app.route('/successres/<int:score>')
+def success(score):
+    res=""
+    if score>=50:
+        res="PASSED"
+    else:
+        res="FAILED"
+    
+    exp={'score':score,"res":res}
+    return render_template('result1.html',results=exp)
+
+
+
 if __name__=="__main__":      
     app.run(debug=True)   
