@@ -3,6 +3,18 @@
 ## Jinja 2 Template Engine
 
 
+## Jinja 2 Tmplate Engine
+"""
+Method 01
+{{  }} expressions to print output in html
+
+Method 2
+{%...%} conditions, for loops,while loop
+
+Method 3
+{#...#} this is for comment
+"""
+
 from flask import Flask,render_template,request
 
 """
