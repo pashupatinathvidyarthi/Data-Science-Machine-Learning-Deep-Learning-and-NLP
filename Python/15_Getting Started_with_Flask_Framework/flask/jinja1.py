@@ -36,9 +36,9 @@ def submit():
 def success(score):
     res=""
     if score>=50:
-        res="PASS"
+        res="PASSED"
     else:
-        res="FAIL"
+        res="FAILED"
     return render_template('result.html',results=res)
 
 if __name__=="__main__":      
