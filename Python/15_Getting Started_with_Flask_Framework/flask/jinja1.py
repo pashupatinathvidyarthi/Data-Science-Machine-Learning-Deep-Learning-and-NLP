@@ -67,6 +67,11 @@ def successres(score):
     return render_template('result1.html',results=exp)
 
 
+## Varibale Rule (if condition)
+@app.route('/successif/<int:score>')
+def successif(score):
+    return render_template('result2.html',results=score)
+
 
 if __name__=="__main__":      
     app.run(debug=True)   
