@@ -32,9 +32,9 @@ def submit():
     return render_template('form.html')
 
 ## Varibale Rule
-@app.route('/success/<score>')
+@app.route('/success/<int:score>')
 def success(score):
-    return "The marks you got is " + score
+    return "The marks you got is " + str(score)
 
 if __name__=="__main__":        ##This is entry of any .py file
     app.run(debug=True)   ## debuge=True means website getting update dynamically as we made chnage in the file
