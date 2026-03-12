@@ -59,11 +59,11 @@ def success(score):
 def successres(score):
     res=""
     if score>=50:
-        res="PASSED"
+        res=" PASSED"
     else:
-        res="FAILED"
+        res=" FAILED"
     
-    exp={'score':score,"res":res}
+    exp={'Score':score,"Result":res}
     return render_template('result1.html',results=exp)
 
 
