@@ -39,6 +39,7 @@ def success(score):
         res="PASS"
     else:
         res="FAIL"
+    return render_template('result.html',results=res)
 
 if __name__=="__main__":      
     app.run(debug=True)   
