@@ -73,5 +73,15 @@ def successif(score):
     return render_template('result2.html',results=score)
 
 
+
+
+@app.route('/fail/<int:score>')
+def fail(score):
+    
+    return render_template('result.html',results=score)
+@app.route('/getresults')
+def get_result()
+
+
 if __name__=="__main__":      
     app.run(debug=True)   
