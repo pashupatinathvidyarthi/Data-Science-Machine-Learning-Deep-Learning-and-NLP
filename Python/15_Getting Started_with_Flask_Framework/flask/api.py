@@ -33,7 +33,7 @@ def get_item(item_id):
 
 
 ## Post : Create a new task
-@app.route('/items'.methods['POST'])
+@app.route('/items',methods=['POST'])
 def create_item():
     if not request.json or not 'name' in request.json:
         return jsonify({"Error":"Item is not Found"})
