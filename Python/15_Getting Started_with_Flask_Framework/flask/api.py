@@ -53,7 +53,8 @@ def update_item(item_id):
     if item is None:
         return jsonify({"Error":"Item not Found"})
     item['name']=request.json.get('name',item['name'])
-
+    item['description']=request.json.get('description',item['description'])
+    return jsonify(item)
 
 if __name__ == '__main__':
     app.run(debug=True)
