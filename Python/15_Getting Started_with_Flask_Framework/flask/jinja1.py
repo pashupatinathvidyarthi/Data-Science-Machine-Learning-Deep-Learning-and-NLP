@@ -15,7 +15,7 @@ Method 3
 {#...#} this is for comment
 """
 
-from flask import Flask,render_template,request
+from flask import Flask,render_template,request,redirect,url_for
 
 """
 It creates an instances of the Flask class,
@@ -74,13 +74,24 @@ def successif(score):
 
 
 
-
+## Building Dynamic URL
 @app.route('/fail/<int:score>')
 def fail(score):
     
-    return render_template('getresult.html',results=score)
-@app.route('/GET_SUBMIT',methods=['POST','GAT'])
-def Get_SUBMIT():
+    return render_template('result.html',results=score)
+@app.route('/subr',methods=['POST','GET'])
+def subr():
+    total_score=0
+    if request.method=='POST':
+        science=float(request.form['science'])
+        maths=float(request.form['maths'])
+        c=float(request.form['c'])
+        data_science=float(request.form['datascience'])
+
+        total_score=(science+maths+c+data_science)/4
+    else:
+        return render_template('getresult.html')
+    return redirect(url_for('successres',score=total_score))
 
 
 if __name__=="__main__":      
