@@ -23,5 +23,13 @@ def get_items():
     return jsonify(items)
 
 
+## Get : Retrieve a specific item by Id
+@app.route('/items/<int:item_id>',methods=['GET'])
+def get_item(item_id):
+    item=next((item for item in items if item["id"]==item_id),None)
+    if item is None:
+        return jsonify({"Error":"Item not found"})
+    return jsonify(item)
+
 if __name__ == '__main__':
     app.run(debug=True)
