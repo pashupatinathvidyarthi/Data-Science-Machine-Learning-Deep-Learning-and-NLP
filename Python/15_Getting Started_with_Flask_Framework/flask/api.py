@@ -32,7 +32,7 @@ def get_item(item_id):
     return jsonify(item)
 
 
-## Post : Create a new task
+## Post : Create a new task -- API
 @app.route('/items',methods=['POST'])
 def create_item():
     if not request.json or not 'name' in request.json:
