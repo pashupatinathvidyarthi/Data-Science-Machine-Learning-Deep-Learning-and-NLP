@@ -17,3 +17,7 @@ df=pd.DataFrame({
     'second column':[10,20,30,40]
 })
 
+
+##Display the Dataframe
+st.write("Here is a DataFrame")
+st.write(df)
