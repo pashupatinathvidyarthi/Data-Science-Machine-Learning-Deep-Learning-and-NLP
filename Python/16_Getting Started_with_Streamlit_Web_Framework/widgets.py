@@ -24,4 +24,14 @@ data={
 }
 
 df=pd.DataFrame(data)
+##To save above dataframe in folder
+df.to_csv("sampledata.csv")
 st.write(df)
+
+
+## Upload File
+uploaded_file=st.file_uploader("Choose a CSV file",type="csv")
+
+if uploaded_file is not None:
+    df=pd.read_csv(uploaded_file)
+    st.write(df)
