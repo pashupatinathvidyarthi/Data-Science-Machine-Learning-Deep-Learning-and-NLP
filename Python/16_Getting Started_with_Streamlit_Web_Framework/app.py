@@ -11,4 +11,9 @@ st.title("Hello Streamlit")
 st.write("This is a simple text")
 
 
-## Create 
+## Create a simple DataFrame
+df=pd.DataFrame({
+    'first column':[1,2,3,4],
+    'second column':[10,20,30,40]
+})
+
