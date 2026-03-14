@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 st.title("Streamlit Text Input")
 
@@ -13,3 +14,14 @@ st.write(f"You selected {choice}")
 
 if name:
     st.write(f"Hello, {name}")
+
+
+
+data={
+    "Name" : ["John","Jane","Jake","Jill"],
+    "Age" : [28,24,35,40],
+    "City" : ["New York","Los Angles","Chicago","Houston"]
+}
+
+df=pd.DataFrame(data)
+st.write(df)
