@@ -4,7 +4,7 @@ st.title("Streamlit Text Input")
 
 name=st.text_input("Enter your name : ")
 
-age=st.slider("Select your age : ",0,100)
+age=st.slider("Select your age : ",0,100,25) ##Slider (start,stop,initial value)
 st.write(f"Your age is {age}.")
 
 if name:
