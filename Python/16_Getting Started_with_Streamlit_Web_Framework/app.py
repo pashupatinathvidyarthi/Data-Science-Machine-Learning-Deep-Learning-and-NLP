@@ -5,3 +5,10 @@ import numpy as np
 
 ##Title of the application
 st.title("Hello Streamlit")
+
+
+##Display a simple text
+st.write("This is a simple text")
+
+
+## Create 
