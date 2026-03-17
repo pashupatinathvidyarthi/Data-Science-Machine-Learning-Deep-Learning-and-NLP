@@ -30,5 +30,3 @@ predicted_species=target_name[prediction[0]]
 
 st.write("Prediction")
 st.write(f"The predicted species is : {predicted_species}")
-
-
