@@ -1,0 +1,1001 @@
+Transaction ID,Date,Category,Product,Quantity,Price,Revenue,Region,Payment Method
+10001,2025-10-06,Sports,Yoga Mat,3,1404.61,4213.83,South America,UPI
+10002,2026-01-19,Books,Atomic Habits,1,356.35,356.35,North America,Net Banking
+10003,2025-05-22,Clothing,Jacket,2,975.48,1950.96,Asia,Debit Card
+10004,2025-04-09,Beauty Products,Lipstick,2,297.55,595.1,North America,Credit Card
+10005,2026-02-21,Clothing,Jacket,2,301.27,602.54,Africa,UPI
+10006,2025-11-30,Beauty Products,Shampoo,5,33.42,167.1,Europe,PayPal
+10007,2025-04-19,Beauty Products,Perfume,2,1705.15,3410.3,North America,Debit Card
+10008,2025-04-16,Books,Rich Dad Poor Dad,1,329.23,329.23,North America,UPI
+10009,2025-11-19,Sports,Tennis Racket,1,632.94,632.94,Asia,PayPal
+10010,2025-12-28,Beauty Products,Moisturizer,4,1504.3,6017.2,North America,Debit Card
+10011,2026-01-14,Sports,Yoga Mat,3,275.63,826.89,Asia,PayPal
+10012,2025-07-20,Sports,Basketball,1,945.82,945.82,South America,Net Banking
+10013,2025-07-19,Electronics,iPhone 14,3,1072.32,3216.96,Africa,Debit Card
+10014,2025-05-18,Home Appliances,Washing Machine,4,1750.95,7003.8,South America,Net Banking
+10015,2025-10-28,Books,Deep Work,1,1226.2,1226.2,North America,Debit Card
+10016,2025-12-13,Electronics,iPhone 14,5,858.09,4290.45,North America,PayPal
+10017,2025-10-01,Books,Atomic Habits,1,626.3,626.3,Europe,UPI
+10018,2026-02-10,Sports,Yoga Mat,5,1201.74,6008.7,North America,PayPal
+10019,2026-01-28,Beauty Products,Face Wash,3,1785.29,5355.87,Europe,UPI
+10020,2025-05-16,Home Appliances,Vacuum Cleaner,5,1882.49,9412.45,Europe,Credit Card
+10021,2026-02-02,Electronics,Dell Laptop,2,126.1,252.2,North America,PayPal
+10022,2025-07-26,Books,Atomic Habits,5,435.16,2175.8,Asia,Debit Card
+10023,2025-12-18,Home Appliances,Microwave,1,1805.76,1805.76,Europe,UPI
+10024,2025-11-25,Beauty Products,Shampoo,2,1564.73,3129.46,Asia,Debit Card
+10025,2026-03-29,Home Appliances,Vacuum Cleaner,3,909.01,2727.03,Asia,Net Banking
+10026,2025-04-30,Clothing,Adidas Shoes,2,1543.45,3086.9,North America,Debit Card
+10027,2026-03-18,Beauty Products,Moisturizer,3,196.75,590.25,Africa,UPI
+10028,2025-06-26,Home Appliances,Microwave,1,769.41,769.41,South America,Debit Card
+10029,2026-01-01,Electronics,Samsung Galaxy S23,2,716.19,1432.38,Africa,UPI
+10030,2026-03-06,Beauty Products,Face Wash,2,894.31,1788.62,South America,Credit Card
+10031,2025-10-31,Electronics,Samsung Galaxy S23,3,12.47,37.41,Europe,Debit Card
+10032,2025-07-21,Electronics,Dell Laptop,5,1169.68,5848.4,Europe,UPI
+10033,2026-04-06,Clothing,Adidas Shoes,4,388.44,1553.76,Asia,Net Banking
+10034,2025-11-17,Clothing,Adidas Shoes,1,1814.52,1814.52,Europe,PayPal
+10035,2025-11-04,Books,The Alchemist,2,462.36,924.72,Europe,Credit Card
+10036,2026-03-07,Beauty Products,Perfume,1,1417.87,1417.87,Europe,Debit Card
+10037,2026-03-24,Clothing,Nike T-shirt,5,619.69,3098.45,Europe,Credit Card
+10038,2025-09-28,Books,The Alchemist,3,259.07,777.21,Asia,Net Banking
+10039,2025-08-26,Sports,Cricket Bat,4,754.08,3016.32,South America,Net Banking
+10040,2025-12-05,Electronics,Samsung Galaxy S23,1,1875.26,1875.26,North America,Net Banking
+10041,2025-07-04,Electronics,Sony Headphones,2,550.04,1100.08,South America,Debit Card
+10042,2025-10-14,Books,Harry Potter,2,800.18,1600.36,North America,PayPal
+10043,2025-12-19,Electronics,Sony Headphones,1,143.41,143.41,North America,Credit Card
+10044,2025-05-20,Beauty Products,Lipstick,2,1899.69,3799.38,Asia,Credit Card
+10045,2025-07-26,Electronics,MacBook Air,4,68.05,272.2,Africa,Debit Card
+10046,2026-03-20,Clothing,Jacket,1,1239.25,1239.25,Europe,PayPal
+10047,2025-07-01,Electronics,Sony Headphones,3,302.72,908.16,Asia,PayPal
+10048,2025-10-06,Home Appliances,Refrigerator,1,1558.99,1558.99,North America,UPI
+10049,2025-08-10,Sports,Tennis Racket,5,1460.24,7301.2,Europe,Net Banking
+10050,2025-05-15,Clothing,Sweater,1,701.5,701.5,Asia,UPI
+10051,2026-02-01,Electronics,Samsung Galaxy S23,5,1241.28,6206.4,Asia,UPI
+10052,2026-03-01,Electronics,Sony Headphones,5,950.52,4752.6,Asia,Credit Card
+10053,2025-12-17,Home Appliances,Refrigerator,2,886.59,1773.18,North America,Net Banking
+10054,2025-04-08,Books,Atomic Habits,1,1354.18,1354.18,Europe,Debit Card
+10055,2025-10-28,Books,The Alchemist,1,15.88,15.88,Europe,Net Banking
+10056,2026-02-10,Books,Rich Dad Poor Dad,3,1520.1,4560.3,Africa,Credit Card
+10057,2025-11-02,Home Appliances,Washing Machine,1,868.33,868.33,Africa,Net Banking
+10058,2026-01-10,Clothing,Levi's Jeans,4,1718.79,6875.16,North America,Credit Card
+10059,2026-03-17,Clothing,Jacket,1,356.63,356.63,South America,PayPal
+10060,2025-08-11,Clothing,Jacket,4,1448.04,5792.16,Asia,Debit Card
+10061,2025-08-11,Books,Atomic Habits,4,550.2,2200.8,South America,PayPal
+10062,2026-01-28,Electronics,Sony Headphones,2,889.44,1778.88,South America,UPI
+10063,2025-12-07,Electronics,MacBook Air,2,933.41,1866.82,Asia,PayPal
+10064,2025-07-11,Home Appliances,Vacuum Cleaner,5,299.31,1496.55,Europe,Debit Card
+10065,2025-08-11,Home Appliances,Air Purifier,5,1067.91,5339.55,Asia,Net Banking
+10066,2025-04-20,Sports,Yoga Mat,2,582.11,1164.22,Europe,Net Banking
+10067,2026-01-17,Home Appliances,Washing Machine,2,357.68,715.36,South America,Debit Card
+10068,2026-03-12,Electronics,Sony Headphones,4,1460.03,5840.12,North America,Credit Card
+10069,2026-02-01,Clothing,Levi's Jeans,2,65.39,130.78,North America,PayPal
+10070,2025-06-15,Home Appliances,Microwave,3,658.51,1975.53,North America,Credit Card
+10071,2026-02-28,Electronics,MacBook Air,3,1212.68,3638.04,Europe,UPI
+10072,2025-11-22,Home Appliances,Microwave,4,1395.12,5580.48,Africa,UPI
+10073,2025-05-09,Books,Deep Work,2,1064.18,2128.36,South America,UPI
+10074,2025-12-23,Beauty Products,Lipstick,1,1696.44,1696.44,Africa,UPI
+10075,2025-07-12,Clothing,Nike T-shirt,3,1207.74,3623.22,North America,PayPal
+10076,2025-06-29,Beauty Products,Moisturizer,4,1317.52,5270.08,South America,Credit Card
+10077,2025-04-09,Sports,Yoga Mat,1,1242.13,1242.13,Asia,PayPal
+10078,2025-05-04,Beauty Products,Perfume,2,1692.29,3384.58,South America,Net Banking
+10079,2025-07-16,Electronics,iPhone 14,1,850.04,850.04,Asia,Debit Card
+10080,2025-11-20,Home Appliances,Air Purifier,4,1454.14,5816.56,South America,Debit Card
+10081,2025-06-05,Home Appliances,Refrigerator,2,1350.97,2701.94,South America,PayPal
+10082,2026-03-24,Home Appliances,Air Purifier,2,1640.53,3281.06,North America,Debit Card
+10083,2026-02-24,Beauty Products,Moisturizer,1,248.04,248.04,South America,UPI
+10084,2025-11-01,Clothing,Sweater,1,1909.63,1909.63,North America,Debit Card
+10085,2025-10-12,Sports,Basketball,4,1169.48,4677.92,Africa,Credit Card
+10086,2025-10-19,Electronics,MacBook Air,2,174.38,348.76,South America,Debit Card
+10087,2025-08-30,Books,The Alchemist,1,1977.56,1977.56,North America,UPI
+10088,2025-12-09,Sports,Yoga Mat,4,754.45,3017.8,South America,Debit Card
+10089,2025-11-01,Electronics,MacBook Air,4,67.27,269.08,Asia,Debit Card
+10090,2025-07-23,Electronics,MacBook Air,1,506.86,506.86,Africa,Credit Card
+10091,2025-12-23,Sports,Tennis Racket,4,1032.35,4129.4,North America,UPI
+10092,2025-06-18,Clothing,Sweater,5,153.09,765.45,Europe,Credit Card
+10093,2025-12-05,Electronics,MacBook Air,3,546.94,1640.82,Europe,Net Banking
+10094,2025-04-26,Clothing,Adidas Shoes,5,1587.3,7936.5,Africa,Credit Card
+10095,2025-12-18,Beauty Products,Perfume,1,1331.39,1331.39,South America,Credit Card
+10096,2025-09-29,Home Appliances,Washing Machine,5,1085.2,5426.0,Africa,PayPal
+10097,2025-09-09,Home Appliances,Vacuum Cleaner,2,1513.43,3026.86,South America,UPI
+10098,2025-10-24,Books,Rich Dad Poor Dad,1,696.7,696.7,Europe,Credit Card
+10099,2025-06-20,Home Appliances,Refrigerator,1,282.27,282.27,Asia,PayPal
+10100,2025-11-29,Sports,Cricket Bat,5,1978.78,9893.9,North America,Credit Card
+10101,2025-11-22,Home Appliances,Microwave,5,1255.41,6277.05,Europe,UPI
+10102,2025-08-20,Electronics,Sony Headphones,1,1399.12,1399.12,South America,Debit Card
+10103,2026-03-20,Sports,Cricket Bat,3,1469.83,4409.49,North America,PayPal
+10104,2025-05-10,Electronics,Sony Headphones,3,361.45,1084.35,North America,UPI
+10105,2025-09-25,Clothing,Adidas Shoes,2,321.79,643.58,Asia,PayPal
+10106,2025-06-13,Beauty Products,Shampoo,4,1521.01,6084.04,North America,Debit Card
+10107,2026-03-22,Home Appliances,Washing Machine,2,882.27,1764.54,Africa,Credit Card
+10108,2026-02-27,Sports,Basketball,1,1380.75,1380.75,North America,Net Banking
+10109,2026-03-13,Home Appliances,Refrigerator,3,1447.68,4343.04,Europe,Debit Card
+10110,2026-03-08,Home Appliances,Vacuum Cleaner,2,228.0,456.0,Asia,UPI
+10111,2025-05-10,Beauty Products,Shampoo,3,1014.06,3042.18,Europe,UPI
+10112,2025-04-25,Electronics,iPhone 14,4,257.88,1031.52,Africa,PayPal
+10113,2025-11-12,Electronics,iPhone 14,5,111.1,555.5,South America,PayPal
+10114,2026-03-03,Sports,Cricket Bat,3,1918.0,5754.0,Africa,UPI
+10115,2025-06-13,Electronics,iPhone 14,1,1483.89,1483.89,Africa,Credit Card
+10116,2026-03-04,Books,Rich Dad Poor Dad,5,1964.5,9822.5,Asia,PayPal
+10117,2025-11-26,Books,Rich Dad Poor Dad,1,1326.18,1326.18,Europe,PayPal
+10118,2025-07-01,Home Appliances,Washing Machine,2,1145.82,2291.64,Asia,Net Banking
+10119,2025-12-29,Home Appliances,Washing Machine,1,1822.9,1822.9,Africa,Credit Card
+10120,2025-05-11,Beauty Products,Shampoo,3,1556.41,4669.23,Africa,Net Banking
+10121,2026-01-25,Electronics,Samsung Galaxy S23,4,63.73,254.92,North America,Net Banking
+10122,2025-08-08,Clothing,Nike T-shirt,4,903.27,3613.08,Africa,UPI
+10123,2025-07-12,Beauty Products,Perfume,1,129.96,129.96,South America,PayPal
+10124,2025-05-10,Electronics,MacBook Air,2,254.19,508.38,South America,UPI
+10125,2026-04-04,Electronics,MacBook Air,3,810.86,2432.58,Africa,UPI
+10126,2026-03-01,Clothing,Sweater,4,220.76,883.04,Asia,UPI
+10127,2025-06-25,Sports,Cricket Bat,5,576.53,2882.65,Europe,PayPal
+10128,2026-02-05,Sports,Cricket Bat,5,1876.28,9381.4,Asia,Credit Card
+10129,2025-09-03,Sports,Basketball,1,676.86,676.86,South America,Debit Card
+10130,2025-05-24,Electronics,MacBook Air,3,1412.78,4238.34,Africa,Debit Card
+10131,2025-04-20,Sports,Yoga Mat,2,430.32,860.64,Europe,Debit Card
+10132,2026-02-14,Books,Rich Dad Poor Dad,4,1075.75,4303.0,South America,UPI
+10133,2025-12-22,Sports,Yoga Mat,3,585.19,1755.57,Europe,Net Banking
+10134,2025-10-01,Electronics,MacBook Air,2,1788.15,3576.3,South America,UPI
+10135,2026-02-24,Electronics,MacBook Air,2,788.31,1576.62,Asia,UPI
+10136,2026-02-20,Clothing,Jacket,3,260.83,782.49,South America,Net Banking
+10137,2025-12-28,Sports,Football,2,1696.01,3392.02,North America,Debit Card
+10138,2025-07-27,Beauty Products,Moisturizer,2,699.97,1399.94,South America,PayPal
+10139,2025-10-08,Beauty Products,Perfume,2,1518.86,3037.72,Africa,Net Banking
+10140,2026-01-13,Electronics,iPhone 14,2,497.09,994.18,Africa,Credit Card
+10141,2025-09-22,Clothing,Jacket,2,803.65,1607.3,South America,UPI
+10142,2025-08-25,Home Appliances,Washing Machine,4,1881.87,7527.48,Asia,PayPal
+10143,2025-05-03,Home Appliances,Vacuum Cleaner,2,1094.6,2189.2,Europe,Debit Card
+10144,2025-05-24,Sports,Basketball,4,887.25,3549.0,Europe,Net Banking
+10145,2026-04-07,Home Appliances,Refrigerator,5,426.31,2131.55,Africa,UPI
+10146,2025-11-01,Beauty Products,Lipstick,5,827.4,4137.0,South America,Net Banking
+10147,2026-04-02,Beauty Products,Face Wash,1,692.75,692.75,North America,Debit Card
+10148,2025-07-21,Beauty Products,Moisturizer,4,1975.71,7902.84,North America,Credit Card
+10149,2025-11-14,Books,Harry Potter,2,1466.76,2933.52,South America,Credit Card
+10150,2025-10-31,Electronics,iPhone 14,5,1522.11,7610.55,Africa,Debit Card
+10151,2026-04-03,Books,Deep Work,5,1425.71,7128.55,Asia,UPI
+10152,2026-04-07,Books,Rich Dad Poor Dad,3,1613.88,4841.64,South America,UPI
+10153,2026-02-14,Home Appliances,Washing Machine,5,1519.13,7595.65,Africa,UPI
+10154,2026-01-04,Home Appliances,Washing Machine,5,1589.06,7945.3,Europe,UPI
+10155,2025-12-15,Home Appliances,Washing Machine,1,582.86,582.86,North America,Credit Card
+10156,2025-07-25,Sports,Tennis Racket,5,1096.59,5482.95,Asia,Credit Card
+10157,2025-09-28,Beauty Products,Lipstick,4,549.33,2197.32,Asia,Net Banking
+10158,2025-09-20,Electronics,Samsung Galaxy S23,5,1576.58,7882.9,Europe,UPI
+10159,2025-06-15,Home Appliances,Air Purifier,1,1934.79,1934.79,Europe,Credit Card
+10160,2025-10-08,Sports,Yoga Mat,3,15.28,45.84,Asia,PayPal
+10161,2025-07-18,Clothing,Levi's Jeans,5,325.61,1628.05,Asia,Credit Card
+10162,2026-02-10,Beauty Products,Perfume,2,1510.19,3020.38,South America,UPI
+10163,2025-12-14,Beauty Products,Moisturizer,5,1626.83,8134.15,North America,Debit Card
+10164,2025-05-04,Home Appliances,Vacuum Cleaner,5,103.2,516.0,North America,Debit Card
+10165,2025-07-28,Books,Rich Dad Poor Dad,3,195.81,587.43,Europe,UPI
+10166,2025-05-26,Beauty Products,Shampoo,4,1490.39,5961.56,North America,Credit Card
+10167,2026-02-18,Electronics,MacBook Air,1,1021.92,1021.92,South America,Credit Card
+10168,2026-01-21,Beauty Products,Perfume,2,1075.74,2151.48,North America,Credit Card
+10169,2025-08-02,Clothing,Sweater,3,309.35,928.05,Africa,UPI
+10170,2025-04-27,Home Appliances,Refrigerator,1,313.82,313.82,Europe,Credit Card
+10171,2025-11-05,Sports,Football,1,1026.6,1026.6,Africa,Debit Card
+10172,2025-05-14,Home Appliances,Air Purifier,4,1347.58,5390.32,Europe,Net Banking
+10173,2026-01-21,Clothing,Levi's Jeans,4,1848.73,7394.92,North America,UPI
+10174,2025-11-20,Books,The Alchemist,1,1117.56,1117.56,Asia,Debit Card
+10175,2025-06-07,Sports,Football,2,1158.13,2316.26,South America,Debit Card
+10176,2025-05-12,Clothing,Levi's Jeans,1,898.63,898.63,North America,UPI
+10177,2025-08-13,Beauty Products,Perfume,3,110.73,332.19,Europe,PayPal
+10178,2025-04-22,Clothing,Adidas Shoes,5,1658.16,8290.8,Asia,Debit Card
+10179,2025-11-07,Beauty Products,Moisturizer,3,961.8,2885.4,Europe,PayPal
+10180,2025-12-10,Books,The Alchemist,2,852.33,1704.66,North America,Net Banking
+10181,2025-09-19,Books,The Alchemist,3,439.4,1318.2,North America,Debit Card
+10182,2025-11-02,Books,Atomic Habits,5,84.37,421.85,Europe,Debit Card
+10183,2025-09-23,Home Appliances,Refrigerator,1,1602.49,1602.49,North America,UPI
+10184,2025-04-10,Beauty Products,Face Wash,5,421.05,2105.25,Africa,Debit Card
+10185,2026-03-18,Beauty Products,Face Wash,4,1411.47,5645.88,Asia,UPI
+10186,2025-12-15,Books,Rich Dad Poor Dad,1,1925.44,1925.44,North America,UPI
+10187,2026-02-02,Books,Deep Work,2,453.11,906.22,Africa,UPI
+10188,2025-09-29,Beauty Products,Moisturizer,1,218.57,218.57,Africa,Net Banking
+10189,2026-04-02,Electronics,iPhone 14,5,828.17,4140.85,Africa,PayPal
+10190,2025-04-30,Beauty Products,Perfume,3,369.27,1107.81,Europe,Net Banking
+10191,2025-10-09,Electronics,Samsung Galaxy S23,2,812.07,1624.14,Asia,Debit Card
+10192,2025-12-20,Books,The Alchemist,2,658.89,1317.78,Africa,UPI
+10193,2025-09-22,Books,Rich Dad Poor Dad,5,71.83,359.15,Europe,PayPal
+10194,2025-09-13,Electronics,Samsung Galaxy S23,4,983.08,3932.32,South America,PayPal
+10195,2026-01-08,Sports,Tennis Racket,5,224.11,1120.55,North America,Net Banking
+10196,2025-04-28,Sports,Yoga Mat,1,1750.21,1750.21,South America,Net Banking
+10197,2025-07-14,Books,Atomic Habits,4,394.02,1576.08,North America,Credit Card
+10198,2025-09-11,Beauty Products,Lipstick,3,527.34,1582.02,Europe,UPI
+10199,2025-11-16,Clothing,Levi's Jeans,5,1561.18,7805.9,Asia,Credit Card
+10200,2025-04-18,Electronics,MacBook Air,4,1648.22,6592.88,Europe,Credit Card
+10201,2025-04-17,Books,Rich Dad Poor Dad,2,379.3,758.6,Europe,UPI
+10202,2025-04-25,Clothing,Jacket,2,1989.57,3979.14,Africa,UPI
+10203,2025-11-05,Clothing,Adidas Shoes,2,942.25,1884.5,North America,Debit Card
+10204,2026-02-21,Home Appliances,Washing Machine,3,481.71,1445.13,South America,PayPal
+10205,2025-10-16,Sports,Football,3,1073.27,3219.81,South America,Credit Card
+10206,2025-10-29,Sports,Football,3,810.71,2432.13,Africa,Debit Card
+10207,2025-05-11,Beauty Products,Moisturizer,5,1650.17,8250.85,South America,Debit Card
+10208,2025-11-12,Sports,Cricket Bat,5,451.25,2256.25,Africa,UPI
+10209,2026-03-04,Sports,Football,2,756.53,1513.06,North America,Net Banking
+10210,2025-10-29,Beauty Products,Shampoo,3,1174.48,3523.44,North America,Credit Card
+10211,2025-05-16,Books,Rich Dad Poor Dad,3,1150.53,3451.59,North America,Credit Card
+10212,2026-01-24,Sports,Basketball,4,1321.13,5284.52,Africa,Credit Card
+10213,2025-11-02,Electronics,iPhone 14,3,237.03,711.09,Asia,PayPal
+10214,2025-12-09,Electronics,MacBook Air,3,1704.33,5112.99,Europe,Credit Card
+10215,2025-07-03,Beauty Products,Face Wash,2,1691.48,3382.96,Africa,Debit Card
+10216,2025-12-24,Home Appliances,Refrigerator,2,980.93,1961.86,North America,PayPal
+10217,2025-05-30,Electronics,MacBook Air,4,1526.26,6105.04,Asia,Net Banking
+10218,2025-07-02,Beauty Products,Moisturizer,5,1418.64,7093.2,North America,PayPal
+10219,2025-05-02,Beauty Products,Face Wash,3,1799.12,5397.36,South America,UPI
+10220,2026-02-12,Clothing,Nike T-shirt,5,1658.88,8294.4,South America,Debit Card
+10221,2025-09-01,Home Appliances,Refrigerator,2,433.47,866.94,Africa,PayPal
+10222,2025-09-24,Sports,Cricket Bat,1,1155.14,1155.14,North America,Credit Card
+10223,2025-07-10,Electronics,MacBook Air,1,355.6,355.6,North America,Debit Card
+10224,2025-06-29,Clothing,Levi's Jeans,5,329.84,1649.2,North America,Debit Card
+10225,2025-08-25,Sports,Football,2,812.55,1625.1,South America,Debit Card
+10226,2025-06-25,Home Appliances,Refrigerator,2,1257.77,2515.54,Africa,Net Banking
+10227,2025-10-15,Home Appliances,Air Purifier,1,716.23,716.23,Africa,PayPal
+10228,2025-12-01,Beauty Products,Shampoo,4,184.84,739.36,Africa,Net Banking
+10229,2025-05-02,Books,Atomic Habits,3,542.43,1627.29,Africa,Net Banking
+10230,2026-02-26,Clothing,Jacket,3,1820.37,5461.11,Africa,UPI
+10231,2025-12-07,Home Appliances,Refrigerator,2,467.61,935.22,North America,Credit Card
+10232,2025-10-03,Sports,Yoga Mat,4,905.56,3622.24,South America,Credit Card
+10233,2025-07-22,Clothing,Adidas Shoes,5,1073.48,5367.4,Asia,PayPal
+10234,2025-05-15,Clothing,Nike T-shirt,1,1532.65,1532.65,Asia,Net Banking
+10235,2025-07-30,Home Appliances,Microwave,2,854.55,1709.1,South America,Debit Card
+10236,2026-03-22,Electronics,iPhone 14,3,1026.05,3078.15,Europe,PayPal
+10237,2026-03-17,Sports,Yoga Mat,5,867.0,4335.0,Africa,Net Banking
+10238,2025-09-20,Clothing,Sweater,4,699.26,2797.04,Europe,UPI
+10239,2025-08-01,Home Appliances,Washing Machine,2,231.9,463.8,North America,Net Banking
+10240,2025-05-02,Clothing,Nike T-shirt,4,1442.8,5771.2,Europe,PayPal
+10241,2026-03-20,Electronics,Sony Headphones,5,1568.78,7843.9,North America,UPI
+10242,2025-08-05,Books,Rich Dad Poor Dad,4,694.86,2779.44,Europe,Net Banking
+10243,2026-03-23,Home Appliances,Air Purifier,1,1741.11,1741.11,Asia,Debit Card
+10244,2025-09-01,Electronics,Samsung Galaxy S23,4,1408.66,5634.64,South America,Credit Card
+10245,2025-09-29,Clothing,Jacket,5,1262.0,6310.0,Asia,PayPal
+10246,2026-01-13,Home Appliances,Refrigerator,5,1889.25,9446.25,Asia,Debit Card
+10247,2026-01-30,Sports,Football,1,360.2,360.2,Asia,Credit Card
+10248,2025-12-03,Home Appliances,Microwave,2,747.81,1495.62,North America,Net Banking
+10249,2025-09-04,Sports,Basketball,4,528.49,2113.96,Asia,Credit Card
+10250,2026-01-24,Beauty Products,Shampoo,5,556.96,2784.8,North America,Debit Card
+10251,2026-04-04,Electronics,Samsung Galaxy S23,5,1472.17,7360.85,Africa,UPI
+10252,2025-08-24,Books,The Alchemist,5,1237.34,6186.7,North America,Net Banking
+10253,2026-02-03,Beauty Products,Lipstick,3,436.85,1310.55,Africa,Credit Card
+10254,2025-06-23,Beauty Products,Face Wash,1,646.65,646.65,North America,PayPal
+10255,2026-01-31,Sports,Cricket Bat,1,918.64,918.64,Europe,Debit Card
+10256,2025-12-30,Sports,Cricket Bat,3,1964.73,5894.19,South America,Credit Card
+10257,2026-03-24,Electronics,MacBook Air,2,1218.85,2437.7,South America,Credit Card
+10258,2025-09-19,Home Appliances,Vacuum Cleaner,5,911.6,4558.0,Europe,Debit Card
+10259,2026-01-05,Clothing,Adidas Shoes,5,113.18,565.9,Asia,Net Banking
+10260,2025-08-17,Electronics,MacBook Air,2,1538.79,3077.58,Asia,Credit Card
+10261,2025-09-01,Sports,Basketball,4,1772.7,7090.8,South America,Net Banking
+10262,2025-12-22,Books,The Alchemist,3,1843.49,5530.47,North America,Debit Card
+10263,2025-04-18,Sports,Football,2,263.47,526.94,Europe,UPI
+10264,2026-03-27,Beauty Products,Moisturizer,2,1601.32,3202.64,North America,Credit Card
+10265,2026-02-05,Books,The Alchemist,3,1922.61,5767.83,Africa,Net Banking
+10266,2026-01-11,Books,Deep Work,1,1194.86,1194.86,Africa,PayPal
+10267,2025-08-16,Clothing,Nike T-shirt,5,737.67,3688.35,North America,Debit Card
+10268,2025-06-09,Sports,Basketball,3,1670.82,5012.46,South America,Credit Card
+10269,2025-09-12,Sports,Basketball,2,883.81,1767.62,Africa,Net Banking
+10270,2025-12-03,Electronics,iPhone 14,2,477.69,955.38,Asia,Credit Card
+10271,2025-09-07,Electronics,Samsung Galaxy S23,5,1278.81,6394.05,Africa,PayPal
+10272,2025-10-07,Electronics,iPhone 14,1,1607.92,1607.92,Europe,PayPal
+10273,2025-08-25,Sports,Yoga Mat,4,1979.37,7917.48,Asia,Credit Card
+10274,2025-09-06,Sports,Yoga Mat,1,134.18,134.18,South America,PayPal
+10275,2025-07-29,Sports,Yoga Mat,3,1700.68,5102.04,North America,Credit Card
+10276,2026-02-13,Clothing,Adidas Shoes,4,1715.78,6863.12,South America,PayPal
+10277,2025-07-26,Clothing,Levi's Jeans,2,1539.38,3078.76,Europe,UPI
+10278,2026-02-15,Beauty Products,Shampoo,2,349.62,699.24,Europe,Credit Card
+10279,2025-05-21,Electronics,iPhone 14,4,1231.65,4926.6,South America,Net Banking
+10280,2025-12-14,Beauty Products,Perfume,3,1401.9,4205.7,Asia,Net Banking
+10281,2025-12-04,Beauty Products,Shampoo,5,1770.51,8852.55,Asia,Net Banking
+10282,2025-08-12,Books,Rich Dad Poor Dad,1,1203.12,1203.12,North America,Debit Card
+10283,2025-10-26,Sports,Yoga Mat,1,1201.92,1201.92,North America,Debit Card
+10284,2025-05-03,Clothing,Jacket,3,503.43,1510.29,North America,Net Banking
+10285,2025-06-28,Sports,Cricket Bat,2,288.54,577.08,Africa,UPI
+10286,2025-04-14,Sports,Yoga Mat,1,60.85,60.85,Africa,PayPal
+10287,2026-01-16,Beauty Products,Moisturizer,4,1545.95,6183.8,Europe,PayPal
+10288,2025-09-12,Sports,Tennis Racket,2,1665.86,3331.72,Europe,Debit Card
+10289,2025-10-23,Clothing,Levi's Jeans,4,1955.4,7821.6,North America,UPI
+10290,2025-12-21,Home Appliances,Refrigerator,1,1351.84,1351.84,Africa,Debit Card
+10291,2025-04-29,Electronics,MacBook Air,4,1256.31,5025.24,South America,UPI
+10292,2025-04-15,Clothing,Jacket,2,781.9,1563.8,Africa,PayPal
+10293,2025-08-21,Electronics,iPhone 14,4,302.34,1209.36,Europe,Net Banking
+10294,2025-11-03,Electronics,Samsung Galaxy S23,2,1370.2,2740.4,Africa,Credit Card
+10295,2025-04-10,Beauty Products,Lipstick,2,803.53,1607.06,North America,Credit Card
+10296,2025-12-09,Books,Atomic Habits,5,513.37,2566.85,Africa,Debit Card
+10297,2026-03-02,Electronics,MacBook Air,4,1635.85,6543.4,North America,Net Banking
+10298,2025-11-11,Books,Atomic Habits,3,710.44,2131.32,North America,UPI
+10299,2025-07-05,Books,Rich Dad Poor Dad,2,1812.67,3625.34,Africa,Credit Card
+10300,2025-10-03,Electronics,Samsung Galaxy S23,3,913.79,2741.37,South America,Credit Card
+10301,2026-03-25,Electronics,Dell Laptop,4,698.68,2794.72,South America,Credit Card
+10302,2025-09-13,Home Appliances,Refrigerator,2,695.47,1390.94,South America,Net Banking
+10303,2025-08-03,Electronics,Dell Laptop,1,350.42,350.42,North America,Net Banking
+10304,2025-11-19,Clothing,Jacket,5,785.25,3926.25,Africa,UPI
+10305,2025-10-27,Electronics,iPhone 14,5,1263.14,6315.7,North America,UPI
+10306,2026-03-15,Sports,Basketball,5,925.77,4628.85,South America,Debit Card
+10307,2026-02-05,Sports,Tennis Racket,3,86.97,260.91,Europe,PayPal
+10308,2025-04-21,Home Appliances,Refrigerator,3,1087.94,3263.82,South America,UPI
+10309,2025-12-12,Books,Rich Dad Poor Dad,1,1293.8,1293.8,Europe,UPI
+10310,2026-02-20,Sports,Football,4,1059.24,4236.96,South America,Credit Card
+10311,2026-01-18,Sports,Yoga Mat,3,594.37,1783.11,Europe,Debit Card
+10312,2025-10-14,Sports,Tennis Racket,5,107.59,537.95,South America,Credit Card
+10313,2025-09-03,Home Appliances,Vacuum Cleaner,1,889.11,889.11,North America,Credit Card
+10314,2025-11-27,Electronics,Sony Headphones,3,146.44,439.32,Asia,Net Banking
+10315,2025-08-07,Sports,Football,3,611.55,1834.65,Asia,PayPal
+10316,2025-04-16,Clothing,Jacket,4,1660.06,6640.24,South America,UPI
+10317,2026-01-20,Books,Atomic Habits,3,1907.02,5721.06,Asia,Credit Card
+10318,2025-10-05,Sports,Tennis Racket,2,707.23,1414.46,Asia,UPI
+10319,2025-07-12,Clothing,Levi's Jeans,2,1173.61,2347.22,Africa,Debit Card
+10320,2025-10-11,Books,Deep Work,4,798.73,3194.92,Europe,Net Banking
+10321,2026-03-19,Electronics,MacBook Air,2,170.63,341.26,North America,PayPal
+10322,2025-04-22,Home Appliances,Microwave,2,1573.35,3146.7,Europe,UPI
+10323,2025-06-17,Clothing,Sweater,3,1372.45,4117.35,South America,UPI
+10324,2025-07-10,Books,Atomic Habits,1,1946.03,1946.03,South America,Debit Card
+10325,2025-04-08,Sports,Football,5,1014.82,5074.1,Africa,PayPal
+10326,2025-09-25,Home Appliances,Air Purifier,3,1797.32,5391.96,South America,UPI
+10327,2025-05-02,Sports,Tennis Racket,1,612.03,612.03,North America,Debit Card
+10328,2025-04-13,Beauty Products,Face Wash,3,1253.88,3761.64,North America,Credit Card
+10329,2026-03-07,Electronics,MacBook Air,2,131.94,263.88,Africa,UPI
+10330,2026-03-14,Electronics,Dell Laptop,3,1124.84,3374.52,Europe,Debit Card
+10331,2025-05-24,Electronics,Samsung Galaxy S23,3,899.87,2699.61,North America,PayPal
+10332,2025-07-21,Home Appliances,Air Purifier,5,1120.16,5600.8,North America,Debit Card
+10333,2025-07-19,Sports,Tennis Racket,1,46.5,46.5,Europe,Debit Card
+10334,2025-12-30,Sports,Cricket Bat,5,1507.59,7537.95,Europe,Credit Card
+10335,2026-03-15,Beauty Products,Shampoo,2,1388.65,2777.3,South America,Credit Card
+10336,2025-09-16,Clothing,Adidas Shoes,1,1740.58,1740.58,Africa,PayPal
+10337,2025-10-30,Home Appliances,Vacuum Cleaner,4,1204.81,4819.24,Africa,Debit Card
+10338,2025-08-20,Beauty Products,Lipstick,3,507.14,1521.42,Asia,Debit Card
+10339,2025-06-26,Clothing,Nike T-shirt,5,940.39,4701.95,Europe,PayPal
+10340,2025-12-29,Beauty Products,Face Wash,5,923.52,4617.6,South America,Credit Card
+10341,2025-04-14,Home Appliances,Air Purifier,3,1764.61,5293.83,Asia,Credit Card
+10342,2025-12-03,Beauty Products,Moisturizer,4,1232.73,4930.92,Asia,Credit Card
+10343,2026-02-23,Clothing,Levi's Jeans,1,181.04,181.04,Africa,UPI
+10344,2025-09-14,Clothing,Levi's Jeans,2,270.66,541.32,Europe,PayPal
+10345,2025-08-23,Books,Rich Dad Poor Dad,5,1205.88,6029.4,Asia,Debit Card
+10346,2025-08-10,Books,Rich Dad Poor Dad,2,1137.25,2274.5,Africa,UPI
+10347,2025-09-25,Electronics,Samsung Galaxy S23,1,502.78,502.78,Asia,PayPal
+10348,2026-04-03,Books,The Alchemist,4,1175.69,4702.76,Asia,Credit Card
+10349,2026-02-16,Electronics,Samsung Galaxy S23,5,33.62,168.1,Europe,Debit Card
+10350,2025-11-30,Home Appliances,Refrigerator,5,1960.52,9802.6,North America,Debit Card
+10351,2025-05-20,Clothing,Nike T-shirt,1,246.39,246.39,Asia,Net Banking
+10352,2025-06-27,Beauty Products,Lipstick,3,471.68,1415.04,North America,Debit Card
+10353,2025-09-19,Books,Rich Dad Poor Dad,2,1366.7,2733.4,Europe,PayPal
+10354,2026-03-21,Sports,Cricket Bat,1,1028.1,1028.1,North America,UPI
+10355,2025-04-08,Electronics,Sony Headphones,5,854.67,4273.35,Asia,Credit Card
+10356,2025-12-19,Clothing,Levi's Jeans,2,627.89,1255.78,Europe,Net Banking
+10357,2026-01-18,Electronics,MacBook Air,4,787.26,3149.04,Africa,Net Banking
+10358,2025-10-01,Clothing,Levi's Jeans,2,1331.15,2662.3,Europe,Net Banking
+10359,2025-06-07,Beauty Products,Face Wash,4,1225.93,4903.72,Africa,Net Banking
+10360,2025-05-01,Clothing,Levi's Jeans,1,1609.27,1609.27,North America,Credit Card
+10361,2025-09-05,Electronics,Dell Laptop,1,1237.64,1237.64,Europe,UPI
+10362,2025-08-29,Home Appliances,Air Purifier,5,132.12,660.6,Europe,UPI
+10363,2025-07-24,Clothing,Nike T-shirt,2,1971.17,3942.34,North America,Credit Card
+10364,2025-11-17,Beauty Products,Shampoo,3,732.28,2196.84,South America,Net Banking
+10365,2026-03-09,Electronics,iPhone 14,3,827.7,2483.1,Asia,PayPal
+10366,2026-01-15,Home Appliances,Refrigerator,4,566.64,2266.56,Europe,UPI
+10367,2025-08-18,Clothing,Levi's Jeans,3,637.1,1911.3,South America,PayPal
+10368,2025-12-23,Clothing,Jacket,1,1502.11,1502.11,Africa,Net Banking
+10369,2025-06-23,Home Appliances,Refrigerator,2,293.86,587.72,Europe,Credit Card
+10370,2026-04-06,Electronics,Dell Laptop,3,181.4,544.2,North America,UPI
+10371,2025-09-20,Books,Atomic Habits,5,968.06,4840.3,North America,UPI
+10372,2025-12-17,Books,The Alchemist,1,238.74,238.74,North America,UPI
+10373,2025-09-26,Home Appliances,Air Purifier,5,641.99,3209.95,Africa,Net Banking
+10374,2026-01-03,Beauty Products,Perfume,3,597.21,1791.63,Africa,Net Banking
+10375,2025-06-21,Books,Atomic Habits,1,970.74,970.74,Europe,Debit Card
+10376,2025-07-23,Sports,Tennis Racket,3,458.95,1376.85,Asia,Net Banking
+10377,2026-04-06,Clothing,Sweater,2,200.3,400.6,Africa,PayPal
+10378,2026-01-02,Beauty Products,Moisturizer,5,1718.89,8594.45,Europe,Net Banking
+10379,2025-07-05,Clothing,Levi's Jeans,5,564.88,2824.4,Asia,Credit Card
+10380,2026-03-12,Electronics,Samsung Galaxy S23,3,139.69,419.07,Asia,Credit Card
+10381,2025-10-22,Sports,Yoga Mat,1,649.49,649.49,South America,PayPal
+10382,2025-07-01,Books,Atomic Habits,1,1356.62,1356.62,Europe,PayPal
+10383,2025-10-19,Home Appliances,Refrigerator,4,618.33,2473.32,Asia,Debit Card
+10384,2025-09-08,Beauty Products,Face Wash,2,1715.56,3431.12,Africa,PayPal
+10385,2026-01-14,Sports,Yoga Mat,2,1415.8,2831.6,Europe,Credit Card
+10386,2025-09-13,Electronics,Samsung Galaxy S23,4,1832.29,7329.16,North America,Credit Card
+10387,2025-04-25,Home Appliances,Air Purifier,3,1989.86,5969.58,Asia,UPI
+10388,2025-12-24,Books,Rich Dad Poor Dad,3,95.7,287.1,Asia,Debit Card
+10389,2025-07-11,Clothing,Nike T-shirt,5,190.27,951.35,Europe,Net Banking
+10390,2025-07-21,Books,The Alchemist,2,1224.98,2449.96,Europe,PayPal
+10391,2025-08-06,Beauty Products,Lipstick,4,1890.52,7562.08,Asia,UPI
+10392,2025-12-10,Sports,Tennis Racket,2,899.02,1798.04,Africa,Debit Card
+10393,2026-03-27,Home Appliances,Refrigerator,3,281.99,845.97,South America,PayPal
+10394,2025-11-12,Beauty Products,Shampoo,3,1704.34,5113.02,Asia,Credit Card
+10395,2025-05-16,Home Appliances,Air Purifier,1,911.03,911.03,Europe,Debit Card
+10396,2026-01-18,Electronics,MacBook Air,4,993.8,3975.2,Africa,Debit Card
+10397,2025-11-18,Beauty Products,Face Wash,5,1245.02,6225.1,Africa,Credit Card
+10398,2025-11-23,Electronics,Samsung Galaxy S23,3,435.66,1306.98,Asia,Net Banking
+10399,2026-04-01,Home Appliances,Air Purifier,5,1122.95,5614.75,Asia,Net Banking
+10400,2026-02-24,Clothing,Sweater,2,548.6,1097.2,South America,Net Banking
+10401,2025-07-19,Clothing,Sweater,4,1907.89,7631.56,South America,UPI
+10402,2025-07-30,Sports,Cricket Bat,4,872.49,3489.96,South America,Net Banking
+10403,2025-12-20,Electronics,Sony Headphones,2,961.1,1922.2,North America,UPI
+10404,2026-03-13,Books,Rich Dad Poor Dad,5,887.14,4435.7,Asia,UPI
+10405,2025-09-18,Clothing,Adidas Shoes,5,1581.31,7906.55,Asia,UPI
+10406,2025-07-16,Clothing,Jacket,3,1086.46,3259.38,North America,UPI
+10407,2025-04-11,Electronics,Sony Headphones,3,354.03,1062.09,Europe,Net Banking
+10408,2025-06-19,Home Appliances,Refrigerator,2,969.66,1939.32,Europe,Debit Card
+10409,2025-10-16,Sports,Basketball,1,446.93,446.93,South America,Net Banking
+10410,2025-09-10,Beauty Products,Lipstick,4,1483.3,5933.2,North America,Net Banking
+10411,2026-02-20,Electronics,Sony Headphones,4,1705.89,6823.56,Africa,PayPal
+10412,2025-09-14,Sports,Tennis Racket,4,424.98,1699.92,Asia,PayPal
+10413,2025-05-07,Books,Deep Work,2,1161.45,2322.9,Africa,PayPal
+10414,2026-01-04,Home Appliances,Washing Machine,5,34.65,173.25,Europe,Debit Card
+10415,2025-12-09,Books,The Alchemist,2,1152.75,2305.5,Europe,UPI
+10416,2026-03-27,Beauty Products,Face Wash,1,1119.81,1119.81,Asia,Net Banking
+10417,2025-04-28,Home Appliances,Vacuum Cleaner,1,477.45,477.45,North America,PayPal
+10418,2025-08-29,Home Appliances,Washing Machine,3,1155.66,3466.98,Europe,Net Banking
+10419,2025-08-04,Sports,Basketball,1,102.29,102.29,North America,PayPal
+10420,2025-12-27,Sports,Cricket Bat,3,559.84,1679.52,Europe,Credit Card
+10421,2025-12-05,Electronics,Sony Headphones,4,1979.0,7916.0,Africa,UPI
+10422,2025-11-30,Sports,Tennis Racket,3,1638.92,4916.76,South America,PayPal
+10423,2025-12-31,Sports,Cricket Bat,2,219.09,438.18,Africa,Net Banking
+10424,2025-10-21,Sports,Basketball,4,861.71,3446.84,Asia,Credit Card
+10425,2025-11-30,Sports,Yoga Mat,4,801.28,3205.12,Europe,Debit Card
+10426,2026-02-01,Sports,Cricket Bat,5,1620.2,8101.0,North America,UPI
+10427,2026-01-26,Sports,Basketball,4,1126.57,4506.28,Africa,Net Banking
+10428,2025-09-05,Clothing,Nike T-shirt,4,1589.29,6357.16,Europe,Net Banking
+10429,2025-07-06,Sports,Yoga Mat,4,331.5,1326.0,South America,Credit Card
+10430,2025-06-19,Electronics,iPhone 14,5,1889.01,9445.05,Africa,UPI
+10431,2025-12-01,Electronics,iPhone 14,2,451.25,902.5,Asia,Net Banking
+10432,2025-12-04,Beauty Products,Lipstick,3,1227.76,3683.28,Europe,Credit Card
+10433,2025-05-20,Sports,Cricket Bat,4,11.34,45.36,Asia,Credit Card
+10434,2026-02-01,Electronics,Sony Headphones,4,332.75,1331.0,Europe,Credit Card
+10435,2025-07-28,Sports,Cricket Bat,5,728.01,3640.05,Africa,Debit Card
+10436,2025-09-21,Beauty Products,Shampoo,1,268.69,268.69,Asia,UPI
+10437,2026-02-20,Home Appliances,Refrigerator,2,183.08,366.16,Africa,PayPal
+10438,2025-12-22,Books,Harry Potter,4,1307.22,5228.88,Asia,UPI
+10439,2026-03-03,Home Appliances,Washing Machine,5,63.82,319.1,North America,UPI
+10440,2026-01-29,Clothing,Jacket,2,530.08,1060.16,South America,Credit Card
+10441,2025-09-25,Electronics,MacBook Air,5,1382.85,6914.25,Asia,UPI
+10442,2025-10-24,Beauty Products,Face Wash,1,600.89,600.89,Asia,Debit Card
+10443,2026-03-15,Home Appliances,Vacuum Cleaner,1,1138.21,1138.21,Europe,Net Banking
+10444,2025-09-21,Home Appliances,Refrigerator,4,108.34,433.36,Europe,UPI
+10445,2025-05-29,Clothing,Adidas Shoes,4,1544.63,6178.52,Europe,Debit Card
+10446,2025-04-10,Beauty Products,Lipstick,5,125.63,628.15,Asia,Net Banking
+10447,2025-12-18,Electronics,iPhone 14,3,1610.56,4831.68,Asia,Debit Card
+10448,2025-08-05,Electronics,Samsung Galaxy S23,1,1280.87,1280.87,Africa,Net Banking
+10449,2026-03-06,Electronics,MacBook Air,3,95.57,286.71,South America,UPI
+10450,2025-07-20,Sports,Cricket Bat,5,1408.67,7043.35,Asia,Debit Card
+10451,2025-09-11,Sports,Football,5,118.32,591.6,Asia,Debit Card
+10452,2025-09-28,Beauty Products,Moisturizer,4,434.95,1739.8,North America,Net Banking
+10453,2025-12-10,Beauty Products,Face Wash,1,316.26,316.26,North America,Debit Card
+10454,2025-07-03,Beauty Products,Lipstick,1,827.26,827.26,Europe,Net Banking
+10455,2026-03-19,Clothing,Levi's Jeans,3,1924.8,5774.4,Asia,Debit Card
+10456,2026-03-20,Electronics,MacBook Air,3,1495.83,4487.49,South America,Debit Card
+10457,2025-05-05,Electronics,Sony Headphones,4,105.83,423.32,Africa,Credit Card
+10458,2025-09-27,Clothing,Levi's Jeans,2,1898.99,3797.98,North America,UPI
+10459,2026-03-06,Beauty Products,Shampoo,5,288.84,1444.2,Europe,Credit Card
+10460,2025-09-04,Electronics,MacBook Air,1,65.68,65.68,North America,Credit Card
+10461,2026-04-04,Books,Atomic Habits,1,64.5,64.5,Asia,Net Banking
+10462,2026-03-09,Books,Deep Work,4,988.92,3955.68,Asia,Net Banking
+10463,2026-01-08,Electronics,Samsung Galaxy S23,3,52.44,157.32,Europe,Net Banking
+10464,2025-06-07,Home Appliances,Refrigerator,4,1352.37,5409.48,Africa,Credit Card
+10465,2026-03-14,Clothing,Adidas Shoes,1,1487.96,1487.96,South America,PayPal
+10466,2025-05-19,Beauty Products,Moisturizer,3,589.86,1769.58,Africa,Debit Card
+10467,2025-06-28,Home Appliances,Microwave,4,863.76,3455.04,South America,PayPal
+10468,2025-05-08,Beauty Products,Perfume,5,1036.2,5181.0,Europe,Net Banking
+10469,2025-11-06,Clothing,Adidas Shoes,5,213.87,1069.35,Asia,UPI
+10470,2025-08-19,Beauty Products,Lipstick,5,299.44,1497.2,Europe,Debit Card
+10471,2026-03-14,Beauty Products,Shampoo,1,1041.99,1041.99,Asia,Debit Card
+10472,2026-02-14,Sports,Football,4,1836.22,7344.88,South America,Credit Card
+10473,2025-09-07,Clothing,Adidas Shoes,2,477.9,955.8,Europe,PayPal
+10474,2025-11-19,Clothing,Jacket,3,290.23,870.69,Europe,Debit Card
+10475,2025-11-21,Home Appliances,Washing Machine,2,1492.61,2985.22,Africa,PayPal
+10476,2025-12-25,Sports,Basketball,3,1178.27,3534.81,South America,UPI
+10477,2025-10-05,Beauty Products,Perfume,2,430.1,860.2,North America,Credit Card
+10478,2025-04-19,Home Appliances,Washing Machine,2,1601.12,3202.24,Africa,UPI
+10479,2025-10-18,Sports,Basketball,4,1308.53,5234.12,South America,Debit Card
+10480,2026-01-04,Books,Rich Dad Poor Dad,1,1188.27,1188.27,North America,UPI
+10481,2026-03-06,Beauty Products,Shampoo,4,414.91,1659.64,Africa,Net Banking
+10482,2025-04-28,Clothing,Adidas Shoes,2,1038.63,2077.26,South America,Credit Card
+10483,2025-08-02,Home Appliances,Vacuum Cleaner,2,1873.7,3747.4,North America,PayPal
+10484,2026-03-16,Sports,Cricket Bat,1,1789.34,1789.34,North America,PayPal
+10485,2025-05-08,Books,Harry Potter,1,1082.76,1082.76,South America,Credit Card
+10486,2025-11-23,Electronics,MacBook Air,3,644.31,1932.93,Europe,Debit Card
+10487,2026-03-21,Books,Rich Dad Poor Dad,4,1970.86,7883.44,Europe,UPI
+10488,2026-02-16,Books,Harry Potter,3,132.74,398.22,Europe,Net Banking
+10489,2025-09-29,Electronics,MacBook Air,2,574.49,1148.98,South America,PayPal
+10490,2025-12-18,Home Appliances,Microwave,4,1466.76,5867.04,South America,Credit Card
+10491,2025-07-27,Books,Deep Work,5,1997.41,9987.05,North America,Credit Card
+10492,2025-10-19,Home Appliances,Air Purifier,3,440.65,1321.95,Europe,Net Banking
+10493,2025-12-15,Books,The Alchemist,4,1362.76,5451.04,Asia,Net Banking
+10494,2025-06-21,Electronics,iPhone 14,4,1077.86,4311.44,Africa,Credit Card
+10495,2025-11-08,Clothing,Sweater,2,1375.49,2750.98,Africa,UPI
+10496,2025-10-31,Beauty Products,Face Wash,3,980.83,2942.49,Africa,Net Banking
+10497,2026-01-23,Electronics,Samsung Galaxy S23,5,179.95,899.75,Asia,Net Banking
+10498,2026-04-06,Books,The Alchemist,5,247.4,1237.0,Asia,Net Banking
+10499,2025-10-04,Beauty Products,Lipstick,2,1035.8,2071.6,South America,Debit Card
+10500,2026-01-10,Clothing,Nike T-shirt,1,609.69,609.69,Asia,PayPal
+10501,2025-06-01,Sports,Cricket Bat,5,1353.48,6767.4,Asia,Debit Card
+10502,2026-03-23,Electronics,Sony Headphones,3,782.25,2346.75,South America,PayPal
+10503,2026-01-20,Electronics,Dell Laptop,1,1057.58,1057.58,Africa,PayPal
+10504,2026-02-09,Clothing,Adidas Shoes,2,1695.63,3391.26,South America,Debit Card
+10505,2025-08-02,Beauty Products,Face Wash,4,902.36,3609.44,Africa,PayPal
+10506,2025-07-19,Books,The Alchemist,2,367.1,734.2,Asia,Net Banking
+10507,2026-02-26,Sports,Cricket Bat,1,1766.23,1766.23,Europe,UPI
+10508,2025-12-14,Beauty Products,Face Wash,2,1959.86,3919.72,South America,Net Banking
+10509,2025-08-28,Beauty Products,Moisturizer,5,931.64,4658.2,Africa,UPI
+10510,2025-06-05,Beauty Products,Face Wash,5,1559.82,7799.1,Africa,Debit Card
+10511,2025-10-24,Clothing,Sweater,5,425.69,2128.45,South America,Net Banking
+10512,2026-03-16,Electronics,iPhone 14,3,132.84,398.52,North America,Credit Card
+10513,2025-05-05,Clothing,Levi's Jeans,5,858.07,4290.35,Africa,PayPal
+10514,2025-09-16,Home Appliances,Air Purifier,1,472.56,472.56,North America,PayPal
+10515,2026-02-09,Books,Deep Work,3,1524.04,4572.12,North America,Debit Card
+10516,2026-03-13,Beauty Products,Lipstick,5,1792.2,8961.0,South America,Debit Card
+10517,2025-06-05,Beauty Products,Moisturizer,5,1393.32,6966.6,Europe,PayPal
+10518,2025-09-16,Books,Harry Potter,4,1485.78,5943.12,South America,UPI
+10519,2026-04-07,Books,Atomic Habits,1,1450.55,1450.55,North America,Debit Card
+10520,2025-06-12,Electronics,Sony Headphones,5,334.42,1672.1,Europe,PayPal
+10521,2026-03-15,Electronics,MacBook Air,2,1057.15,2114.3,South America,Credit Card
+10522,2025-08-07,Beauty Products,Moisturizer,5,381.59,1907.95,North America,UPI
+10523,2025-04-27,Home Appliances,Microwave,2,1098.96,2197.92,South America,Credit Card
+10524,2025-12-05,Beauty Products,Lipstick,1,152.13,152.13,Africa,Debit Card
+10525,2025-12-27,Beauty Products,Lipstick,1,1852.66,1852.66,North America,Credit Card
+10526,2026-03-14,Electronics,MacBook Air,5,1043.75,5218.75,North America,UPI
+10527,2025-09-24,Home Appliances,Refrigerator,4,651.0,2604.0,South America,UPI
+10528,2025-06-20,Books,Rich Dad Poor Dad,5,234.88,1174.4,North America,UPI
+10529,2025-07-29,Sports,Basketball,3,669.81,2009.43,South America,UPI
+10530,2026-03-29,Electronics,Sony Headphones,2,1893.82,3787.64,North America,Net Banking
+10531,2025-12-24,Electronics,iPhone 14,5,224.11,1120.55,South America,Credit Card
+10532,2026-01-14,Sports,Basketball,1,634.54,634.54,South America,Credit Card
+10533,2026-03-14,Electronics,iPhone 14,1,1767.74,1767.74,Europe,Net Banking
+10534,2025-09-04,Clothing,Adidas Shoes,4,1172.54,4690.16,Africa,Credit Card
+10535,2026-03-19,Beauty Products,Shampoo,1,1009.55,1009.55,Europe,Credit Card
+10536,2025-05-02,Beauty Products,Shampoo,3,369.15,1107.45,Europe,UPI
+10537,2026-03-28,Sports,Tennis Racket,5,1701.33,8506.65,Europe,Net Banking
+10538,2025-08-16,Electronics,Dell Laptop,5,372.89,1864.45,Asia,Net Banking
+10539,2026-02-22,Sports,Yoga Mat,2,919.06,1838.12,South America,Credit Card
+10540,2025-07-02,Sports,Tennis Racket,3,856.08,2568.24,South America,Net Banking
+10541,2025-10-28,Electronics,Sony Headphones,1,759.82,759.82,South America,Debit Card
+10542,2025-05-12,Books,The Alchemist,1,1704.01,1704.01,Europe,UPI
+10543,2025-11-29,Beauty Products,Face Wash,1,122.9,122.9,Europe,Net Banking
+10544,2026-01-27,Books,The Alchemist,5,216.54,1082.7,Europe,UPI
+10545,2025-10-21,Beauty Products,Face Wash,4,1863.95,7455.8,Asia,Net Banking
+10546,2026-01-03,Electronics,MacBook Air,3,1655.05,4965.15,Europe,Debit Card
+10547,2026-01-01,Electronics,Dell Laptop,3,22.48,67.44,North America,Debit Card
+10548,2026-04-04,Beauty Products,Moisturizer,5,1299.46,6497.3,Africa,Net Banking
+10549,2025-04-23,Books,Rich Dad Poor Dad,3,1362.86,4088.58,South America,PayPal
+10550,2025-06-05,Sports,Cricket Bat,5,971.17,4855.85,Asia,Net Banking
+10551,2025-08-25,Electronics,Dell Laptop,3,1990.21,5970.63,Asia,Credit Card
+10552,2026-01-03,Clothing,Nike T-shirt,5,1357.79,6788.95,Africa,Debit Card
+10553,2025-06-28,Electronics,Samsung Galaxy S23,2,837.45,1674.9,Europe,Net Banking
+10554,2026-01-23,Sports,Basketball,2,48.37,96.74,Africa,PayPal
+10555,2026-04-03,Books,Deep Work,3,723.38,2170.14,South America,Debit Card
+10556,2025-04-20,Electronics,iPhone 14,2,874.12,1748.24,Europe,UPI
+10557,2025-04-19,Books,The Alchemist,3,1270.8,3812.4,South America,Debit Card
+10558,2025-06-24,Books,The Alchemist,4,1773.61,7094.44,Europe,Net Banking
+10559,2025-06-30,Beauty Products,Shampoo,1,1083.11,1083.11,North America,Net Banking
+10560,2025-05-06,Home Appliances,Refrigerator,4,966.47,3865.88,North America,Debit Card
+10561,2025-09-30,Electronics,MacBook Air,4,1618.74,6474.96,South America,PayPal
+10562,2026-01-06,Beauty Products,Shampoo,3,565.85,1697.55,Africa,UPI
+10563,2025-05-03,Sports,Football,3,22.85,68.55,Asia,Net Banking
+10564,2025-05-11,Beauty Products,Perfume,1,863.37,863.37,North America,Debit Card
+10565,2025-06-30,Clothing,Nike T-shirt,2,1570.81,3141.62,South America,UPI
+10566,2026-01-04,Books,Harry Potter,1,1006.15,1006.15,South America,UPI
+10567,2025-06-22,Electronics,Sony Headphones,4,132.88,531.52,Africa,UPI
+10568,2025-04-24,Clothing,Adidas Shoes,3,1713.34,5140.02,North America,UPI
+10569,2025-08-20,Sports,Cricket Bat,4,925.13,3700.52,Asia,UPI
+10570,2026-03-15,Books,Harry Potter,5,1083.54,5417.7,Europe,PayPal
+10571,2026-03-02,Clothing,Adidas Shoes,2,1388.13,2776.26,Africa,PayPal
+10572,2026-03-21,Electronics,iPhone 14,1,729.61,729.61,North America,UPI
+10573,2025-11-26,Beauty Products,Face Wash,1,668.5,668.5,North America,Debit Card
+10574,2026-03-04,Clothing,Nike T-shirt,4,1318.08,5272.32,Asia,Net Banking
+10575,2025-11-10,Sports,Cricket Bat,5,41.05,205.25,South America,UPI
+10576,2025-06-24,Beauty Products,Face Wash,5,783.15,3915.75,North America,PayPal
+10577,2025-06-12,Beauty Products,Face Wash,5,754.76,3773.8,Europe,Credit Card
+10578,2025-07-17,Beauty Products,Shampoo,5,48.59,242.95,Asia,PayPal
+10579,2025-06-18,Sports,Cricket Bat,4,362.89,1451.56,Europe,Credit Card
+10580,2026-02-20,Home Appliances,Washing Machine,3,1523.21,4569.63,North America,PayPal
+10581,2025-09-27,Beauty Products,Moisturizer,2,353.99,707.98,Europe,Credit Card
+10582,2026-01-10,Home Appliances,Washing Machine,5,1091.84,5459.2,Africa,Credit Card
+10583,2026-01-07,Electronics,Dell Laptop,1,1191.62,1191.62,North America,UPI
+10584,2025-11-11,Clothing,Adidas Shoes,1,504.86,504.86,Africa,Credit Card
+10585,2025-10-11,Books,Atomic Habits,1,1201.8,1201.8,Europe,Debit Card
+10586,2026-01-10,Clothing,Adidas Shoes,4,932.73,3730.92,South America,Debit Card
+10587,2026-01-26,Beauty Products,Perfume,1,328.64,328.64,South America,Credit Card
+10588,2026-03-24,Electronics,Sony Headphones,4,1193.56,4774.24,North America,UPI
+10589,2025-12-26,Sports,Basketball,5,1932.53,9662.65,Asia,PayPal
+10590,2025-12-30,Electronics,Sony Headphones,3,1229.85,3689.55,Asia,Debit Card
+10591,2025-06-04,Beauty Products,Face Wash,1,960.87,960.87,Africa,Credit Card
+10592,2026-01-09,Sports,Cricket Bat,3,1587.09,4761.27,Europe,Net Banking
+10593,2025-08-13,Sports,Cricket Bat,1,1869.34,1869.34,South America,PayPal
+10594,2025-09-20,Home Appliances,Air Purifier,5,873.91,4369.55,Asia,Debit Card
+10595,2026-02-10,Electronics,Sony Headphones,4,1067.57,4270.28,Africa,PayPal
+10596,2025-04-18,Electronics,Sony Headphones,1,1052.07,1052.07,Europe,UPI
+10597,2026-01-21,Home Appliances,Vacuum Cleaner,5,149.45,747.25,Asia,PayPal
+10598,2025-06-25,Clothing,Adidas Shoes,1,431.68,431.68,South America,Debit Card
+10599,2025-09-15,Home Appliances,Refrigerator,5,936.48,4682.4,South America,Debit Card
+10600,2025-06-19,Electronics,MacBook Air,3,1141.78,3425.34,Asia,Net Banking
+10601,2025-05-20,Home Appliances,Vacuum Cleaner,3,1590.11,4770.33,Europe,Credit Card
+10602,2026-02-11,Sports,Tennis Racket,4,724.84,2899.36,Africa,Debit Card
+10603,2026-02-11,Electronics,Sony Headphones,3,467.91,1403.73,North America,PayPal
+10604,2025-07-04,Clothing,Nike T-shirt,2,1113.02,2226.04,Europe,UPI
+10605,2025-10-10,Books,The Alchemist,4,257.77,1031.08,Africa,Debit Card
+10606,2025-05-03,Clothing,Levi's Jeans,1,1679.5,1679.5,North America,PayPal
+10607,2025-07-04,Books,Rich Dad Poor Dad,5,960.08,4800.4,South America,PayPal
+10608,2025-08-02,Beauty Products,Moisturizer,3,1639.08,4917.24,Europe,Net Banking
+10609,2026-03-15,Sports,Basketball,4,267.14,1068.56,Asia,Net Banking
+10610,2025-05-01,Books,Deep Work,5,231.69,1158.45,North America,Net Banking
+10611,2025-04-26,Sports,Basketball,4,1308.74,5234.96,North America,Net Banking
+10612,2025-05-25,Electronics,iPhone 14,3,762.39,2287.17,North America,Credit Card
+10613,2025-05-28,Sports,Basketball,2,365.17,730.34,Africa,UPI
+10614,2025-05-05,Home Appliances,Washing Machine,5,1287.33,6436.65,Asia,UPI
+10615,2025-09-27,Beauty Products,Lipstick,3,364.56,1093.68,Africa,Credit Card
+10616,2025-06-08,Home Appliances,Microwave,3,1252.01,3756.03,North America,Credit Card
+10617,2025-12-10,Clothing,Adidas Shoes,5,1887.01,9435.05,Europe,PayPal
+10618,2025-12-22,Clothing,Levi's Jeans,3,674.47,2023.41,Africa,PayPal
+10619,2025-11-22,Sports,Tennis Racket,2,283.11,566.22,Asia,UPI
+10620,2025-09-02,Books,Harry Potter,4,1870.43,7481.72,Africa,PayPal
+10621,2025-07-08,Sports,Cricket Bat,2,1846.2,3692.4,Africa,UPI
+10622,2025-09-16,Books,Harry Potter,2,1495.72,2991.44,Asia,Net Banking
+10623,2025-12-23,Electronics,Samsung Galaxy S23,1,244.57,244.57,Africa,UPI
+10624,2025-06-27,Clothing,Adidas Shoes,1,551.99,551.99,Europe,Debit Card
+10625,2025-12-06,Electronics,Dell Laptop,5,1853.35,9266.75,North America,Debit Card
+10626,2025-07-11,Sports,Tennis Racket,4,1791.15,7164.6,Asia,Credit Card
+10627,2025-06-18,Beauty Products,Moisturizer,1,368.32,368.32,Europe,PayPal
+10628,2025-05-09,Beauty Products,Perfume,5,819.92,4099.6,Africa,Credit Card
+10629,2025-08-29,Sports,Tennis Racket,1,295.24,295.24,Europe,Debit Card
+10630,2025-05-28,Beauty Products,Face Wash,3,1245.35,3736.05,Africa,Debit Card
+10631,2026-03-13,Sports,Football,1,1920.02,1920.02,South America,Credit Card
+10632,2025-07-21,Clothing,Adidas Shoes,1,263.98,263.98,Asia,UPI
+10633,2025-08-29,Electronics,Dell Laptop,4,1886.0,7544.0,Europe,Debit Card
+10634,2025-10-11,Electronics,Dell Laptop,4,1964.4,7857.6,Asia,Net Banking
+10635,2025-12-16,Clothing,Sweater,5,1527.17,7635.85,Africa,Net Banking
+10636,2025-11-05,Books,Harry Potter,2,1365.76,2731.52,South America,PayPal
+10637,2025-09-27,Books,Harry Potter,5,453.67,2268.35,North America,UPI
+10638,2025-04-29,Beauty Products,Face Wash,2,1530.22,3060.44,Africa,PayPal
+10639,2026-02-26,Clothing,Adidas Shoes,2,809.67,1619.34,South America,Credit Card
+10640,2025-08-27,Sports,Tennis Racket,5,654.16,3270.8,Africa,Net Banking
+10641,2025-10-06,Beauty Products,Face Wash,1,420.93,420.93,South America,PayPal
+10642,2025-06-14,Electronics,MacBook Air,5,29.39,146.95,North America,Net Banking
+10643,2025-10-09,Home Appliances,Vacuum Cleaner,5,141.81,709.05,South America,Net Banking
+10644,2025-09-05,Home Appliances,Microwave,3,1628.2,4884.6,Africa,PayPal
+10645,2025-11-02,Clothing,Adidas Shoes,2,1419.84,2839.68,Africa,Net Banking
+10646,2025-08-01,Electronics,MacBook Air,1,681.14,681.14,North America,Debit Card
+10647,2025-09-05,Home Appliances,Refrigerator,3,1541.0,4623.0,South America,Debit Card
+10648,2025-06-30,Beauty Products,Perfume,3,746.42,2239.26,Asia,Credit Card
+10649,2025-05-03,Books,The Alchemist,4,54.36,217.44,Europe,UPI
+10650,2026-02-20,Beauty Products,Perfume,4,259.02,1036.08,Africa,UPI
+10651,2025-07-20,Electronics,iPhone 14,1,1273.67,1273.67,Europe,UPI
+10652,2025-04-20,Home Appliances,Refrigerator,5,502.6,2513.0,Asia,UPI
+10653,2025-12-22,Beauty Products,Moisturizer,3,1125.93,3377.79,South America,UPI
+10654,2026-01-01,Electronics,MacBook Air,1,1813.62,1813.62,Europe,Debit Card
+10655,2026-02-08,Home Appliances,Air Purifier,2,572.56,1145.12,Asia,UPI
+10656,2026-01-26,Electronics,Samsung Galaxy S23,3,1758.54,5275.62,Asia,UPI
+10657,2026-02-03,Sports,Cricket Bat,1,1499.85,1499.85,Asia,Net Banking
+10658,2025-05-20,Books,Deep Work,4,251.4,1005.6,North America,Debit Card
+10659,2025-08-11,Sports,Tennis Racket,4,901.91,3607.64,Africa,Net Banking
+10660,2025-05-12,Sports,Cricket Bat,4,481.58,1926.32,North America,Debit Card
+10661,2025-05-14,Beauty Products,Face Wash,5,623.28,3116.4,Asia,Net Banking
+10662,2025-11-27,Clothing,Sweater,5,862.72,4313.6,South America,Debit Card
+10663,2026-02-04,Clothing,Jacket,3,866.57,2599.71,South America,Credit Card
+10664,2025-05-14,Electronics,Dell Laptop,3,1313.68,3941.04,Europe,PayPal
+10665,2025-12-18,Clothing,Jacket,2,117.22,234.44,Asia,UPI
+10666,2025-12-23,Books,Atomic Habits,4,1073.93,4295.72,Africa,PayPal
+10667,2026-01-28,Beauty Products,Face Wash,5,1557.68,7788.4,Asia,Credit Card
+10668,2025-08-01,Home Appliances,Microwave,4,1541.47,6165.88,Africa,Credit Card
+10669,2026-01-20,Sports,Tennis Racket,2,1493.44,2986.88,North America,UPI
+10670,2025-08-18,Home Appliances,Washing Machine,2,1470.38,2940.76,Europe,UPI
+10671,2026-01-13,Books,Harry Potter,4,643.4,2573.6,South America,Debit Card
+10672,2025-11-22,Beauty Products,Shampoo,3,1324.49,3973.47,North America,UPI
+10673,2025-05-21,Sports,Tennis Racket,3,410.4,1231.2,South America,UPI
+10674,2025-05-20,Clothing,Jacket,5,1942.3,9711.5,Europe,UPI
+10675,2026-01-27,Electronics,iPhone 14,4,1453.16,5812.64,Europe,Credit Card
+10676,2025-08-12,Clothing,Levi's Jeans,5,668.76,3343.8,South America,Net Banking
+10677,2026-02-01,Beauty Products,Face Wash,4,286.71,1146.84,Europe,UPI
+10678,2025-05-16,Clothing,Sweater,5,1278.51,6392.55,North America,Net Banking
+10679,2025-06-07,Clothing,Sweater,4,379.94,1519.76,Africa,Net Banking
+10680,2026-03-02,Home Appliances,Microwave,3,1345.63,4036.89,South America,Net Banking
+10681,2026-01-12,Home Appliances,Air Purifier,1,142.2,142.2,South America,Debit Card
+10682,2025-12-09,Books,Deep Work,5,1378.63,6893.15,North America,Debit Card
+10683,2025-12-08,Books,The Alchemist,3,1990.78,5972.34,North America,UPI
+10684,2025-07-23,Home Appliances,Washing Machine,2,1944.68,3889.36,Europe,UPI
+10685,2025-08-27,Clothing,Levi's Jeans,4,1751.39,7005.56,North America,Debit Card
+10686,2026-03-15,Clothing,Jacket,4,1331.68,5326.72,North America,UPI
+10687,2026-02-24,Beauty Products,Moisturizer,1,407.61,407.61,Asia,Debit Card
+10688,2026-01-11,Home Appliances,Washing Machine,3,1448.0,4344.0,South America,PayPal
+10689,2025-11-10,Beauty Products,Moisturizer,1,1029.66,1029.66,Asia,Debit Card
+10690,2025-10-28,Books,Deep Work,1,1540.12,1540.12,Europe,Net Banking
+10691,2025-07-28,Clothing,Levi's Jeans,5,643.0,3215.0,North America,Net Banking
+10692,2025-07-19,Beauty Products,Face Wash,4,1179.01,4716.04,Europe,Net Banking
+10693,2026-04-06,Sports,Cricket Bat,1,717.27,717.27,Africa,Net Banking
+10694,2025-04-13,Electronics,Dell Laptop,4,329.38,1317.52,South America,Debit Card
+10695,2025-07-01,Electronics,iPhone 14,4,1538.46,6153.84,Europe,UPI
+10696,2025-04-25,Books,Rich Dad Poor Dad,1,812.13,812.13,Africa,Credit Card
+10697,2025-06-03,Beauty Products,Moisturizer,1,1517.12,1517.12,North America,UPI
+10698,2025-05-22,Clothing,Sweater,3,762.2,2286.6,Africa,Debit Card
+10699,2025-11-16,Clothing,Levi's Jeans,3,678.51,2035.53,Asia,Debit Card
+10700,2025-08-09,Electronics,Samsung Galaxy S23,5,1976.35,9881.75,Asia,Net Banking
+10701,2026-02-26,Clothing,Sweater,4,1199.81,4799.24,Africa,Net Banking
+10702,2025-11-27,Sports,Basketball,2,940.73,1881.46,North America,Debit Card
+10703,2025-06-28,Books,Deep Work,2,704.2,1408.4,Africa,Net Banking
+10704,2026-03-21,Clothing,Jacket,4,1060.27,4241.08,South America,Credit Card
+10705,2025-08-27,Clothing,Nike T-shirt,5,843.88,4219.4,North America,PayPal
+10706,2026-01-18,Electronics,Samsung Galaxy S23,3,1071.53,3214.59,North America,Credit Card
+10707,2025-05-15,Electronics,Dell Laptop,3,589.07,1767.21,Europe,UPI
+10708,2025-09-20,Books,Atomic Habits,1,1361.93,1361.93,Europe,PayPal
+10709,2026-03-08,Books,Harry Potter,5,1354.2,6771.0,Asia,Debit Card
+10710,2025-04-12,Books,Rich Dad Poor Dad,5,11.43,57.15,North America,Net Banking
+10711,2025-04-23,Beauty Products,Face Wash,1,788.47,788.47,Africa,UPI
+10712,2025-08-17,Beauty Products,Perfume,2,516.23,1032.46,Asia,Debit Card
+10713,2026-01-18,Clothing,Jacket,3,1433.23,4299.69,Europe,Credit Card
+10714,2025-05-25,Books,Deep Work,1,1019.64,1019.64,Asia,PayPal
+10715,2026-01-18,Sports,Basketball,1,830.0,830.0,Asia,PayPal
+10716,2026-01-29,Sports,Tennis Racket,3,1034.26,3102.78,Asia,UPI
+10717,2025-09-11,Beauty Products,Moisturizer,5,1327.78,6638.9,South America,PayPal
+10718,2025-06-05,Sports,Tennis Racket,3,413.44,1240.32,Europe,PayPal
+10719,2025-12-12,Beauty Products,Shampoo,4,1920.77,7683.08,South America,PayPal
+10720,2025-11-30,Beauty Products,Shampoo,1,224.64,224.64,South America,UPI
+10721,2025-09-28,Sports,Yoga Mat,1,519.47,519.47,North America,Debit Card
+10722,2025-06-23,Books,The Alchemist,5,364.58,1822.9,Africa,UPI
+10723,2025-12-05,Books,The Alchemist,1,1019.34,1019.34,Africa,UPI
+10724,2026-02-21,Beauty Products,Face Wash,4,1291.1,5164.4,Europe,Credit Card
+10725,2025-12-26,Sports,Yoga Mat,4,232.2,928.8,Africa,PayPal
+10726,2025-10-21,Electronics,Dell Laptop,3,1156.0,3468.0,Asia,Credit Card
+10727,2025-06-09,Books,Atomic Habits,4,1722.61,6890.44,South America,Net Banking
+10728,2025-10-10,Sports,Yoga Mat,1,349.34,349.34,Asia,Credit Card
+10729,2025-06-11,Books,Deep Work,4,1823.66,7294.64,North America,PayPal
+10730,2026-01-28,Home Appliances,Vacuum Cleaner,5,1064.16,5320.8,Africa,Credit Card
+10731,2025-08-02,Books,Atomic Habits,3,1709.36,5128.08,Africa,Net Banking
+10732,2025-12-31,Books,Harry Potter,5,1821.19,9105.95,Africa,PayPal
+10733,2025-10-05,Electronics,MacBook Air,5,380.66,1903.3,North America,Credit Card
+10734,2025-08-30,Sports,Football,5,46.5,232.5,South America,Debit Card
+10735,2025-05-27,Books,Rich Dad Poor Dad,1,1267.43,1267.43,Africa,Debit Card
+10736,2026-04-05,Beauty Products,Moisturizer,1,822.74,822.74,South America,PayPal
+10737,2026-03-12,Home Appliances,Washing Machine,5,1271.09,6355.45,Asia,Debit Card
+10738,2025-06-20,Electronics,iPhone 14,2,1680.8,3361.6,South America,PayPal
+10739,2025-04-22,Home Appliances,Vacuum Cleaner,4,588.74,2354.96,Africa,UPI
+10740,2025-04-09,Home Appliances,Microwave,1,1234.36,1234.36,North America,UPI
+10741,2025-12-11,Beauty Products,Perfume,5,484.2,2421.0,Africa,Credit Card
+10742,2025-07-23,Books,The Alchemist,5,270.49,1352.45,Europe,UPI
+10743,2026-03-03,Clothing,Levi's Jeans,4,506.68,2026.72,Africa,UPI
+10744,2025-04-12,Electronics,Dell Laptop,4,899.08,3596.32,Europe,PayPal
+10745,2026-03-15,Books,Rich Dad Poor Dad,5,1952.66,9763.3,Asia,Credit Card
+10746,2025-12-03,Clothing,Levi's Jeans,2,516.54,1033.08,South America,Debit Card
+10747,2025-08-15,Sports,Football,5,613.62,3068.1,Europe,UPI
+10748,2025-11-27,Sports,Football,2,1979.34,3958.68,North America,Net Banking
+10749,2026-02-27,Beauty Products,Moisturizer,3,1829.02,5487.06,Africa,Credit Card
+10750,2025-10-08,Home Appliances,Air Purifier,1,1925.15,1925.15,North America,UPI
+10751,2026-02-26,Home Appliances,Air Purifier,1,1856.88,1856.88,Africa,Debit Card
+10752,2026-01-25,Electronics,MacBook Air,4,696.13,2784.52,Asia,Debit Card
+10753,2025-08-21,Home Appliances,Air Purifier,1,1272.53,1272.53,Europe,Debit Card
+10754,2025-11-04,Books,The Alchemist,3,1099.47,3298.41,North America,PayPal
+10755,2026-01-20,Home Appliances,Microwave,3,1554.65,4663.95,North America,Net Banking
+10756,2025-04-18,Sports,Football,5,1589.19,7945.95,Asia,Credit Card
+10757,2026-01-06,Home Appliances,Washing Machine,5,1647.35,8236.75,North America,Net Banking
+10758,2025-12-03,Sports,Cricket Bat,3,333.7,1001.1,Asia,UPI
+10759,2026-01-12,Books,Deep Work,3,603.04,1809.12,South America,Net Banking
+10760,2026-04-05,Electronics,MacBook Air,5,231.15,1155.75,Africa,UPI
+10761,2025-06-16,Books,The Alchemist,4,1031.67,4126.68,South America,UPI
+10762,2025-08-01,Books,Atomic Habits,1,1186.5,1186.5,South America,Credit Card
+10763,2025-12-13,Electronics,MacBook Air,3,781.93,2345.79,North America,Net Banking
+10764,2025-11-29,Clothing,Jacket,3,1906.38,5719.14,Asia,Net Banking
+10765,2025-06-26,Books,Rich Dad Poor Dad,3,1700.77,5102.31,Africa,UPI
+10766,2025-09-08,Electronics,iPhone 14,1,954.89,954.89,Africa,Credit Card
+10767,2025-08-22,Clothing,Adidas Shoes,1,1218.86,1218.86,Asia,Debit Card
+10768,2025-05-11,Electronics,MacBook Air,4,741.49,2965.96,Asia,Credit Card
+10769,2025-07-03,Home Appliances,Washing Machine,3,109.16,327.48,Asia,PayPal
+10770,2025-08-31,Electronics,Sony Headphones,5,1649.21,8246.05,Africa,PayPal
+10771,2025-08-23,Home Appliances,Microwave,1,1376.86,1376.86,Europe,Debit Card
+10772,2025-08-24,Books,Rich Dad Poor Dad,5,136.33,681.65,North America,Credit Card
+10773,2025-12-17,Books,Deep Work,2,628.76,1257.52,Europe,Debit Card
+10774,2026-01-21,Beauty Products,Shampoo,1,99.59,99.59,Europe,Net Banking
+10775,2026-01-03,Sports,Tennis Racket,3,1109.06,3327.18,Europe,Debit Card
+10776,2025-06-19,Sports,Tennis Racket,5,289.44,1447.2,North America,Net Banking
+10777,2026-03-28,Clothing,Jacket,1,1551.4,1551.4,Asia,UPI
+10778,2026-03-29,Beauty Products,Lipstick,5,1842.02,9210.1,Africa,Net Banking
+10779,2025-06-18,Home Appliances,Microwave,5,1770.73,8853.65,North America,UPI
+10780,2026-01-03,Electronics,MacBook Air,1,931.12,931.12,North America,Credit Card
+10781,2026-02-04,Books,The Alchemist,4,1537.66,6150.64,Asia,Net Banking
+10782,2025-09-11,Books,Atomic Habits,1,1785.01,1785.01,North America,Debit Card
+10783,2025-05-28,Electronics,Sony Headphones,4,695.12,2780.48,South America,UPI
+10784,2026-02-14,Books,Deep Work,3,1590.3,4770.9,Asia,Debit Card
+10785,2025-06-05,Home Appliances,Air Purifier,4,620.91,2483.64,North America,Credit Card
+10786,2025-08-11,Beauty Products,Lipstick,5,338.01,1690.05,South America,Credit Card
+10787,2025-04-21,Books,Rich Dad Poor Dad,4,798.69,3194.76,North America,UPI
+10788,2026-02-17,Clothing,Jacket,2,1314.83,2629.66,Asia,PayPal
+10789,2026-03-18,Home Appliances,Air Purifier,2,774.51,1549.02,Asia,Credit Card
+10790,2025-07-11,Home Appliances,Washing Machine,3,909.53,2728.59,Europe,UPI
+10791,2026-03-07,Electronics,MacBook Air,2,1823.24,3646.48,South America,Debit Card
+10792,2025-05-17,Books,The Alchemist,5,1605.12,8025.6,South America,Credit Card
+10793,2025-05-01,Clothing,Jacket,4,1720.42,6881.68,Africa,Net Banking
+10794,2025-06-11,Beauty Products,Shampoo,1,935.25,935.25,Asia,UPI
+10795,2026-02-22,Electronics,Samsung Galaxy S23,5,1927.97,9639.85,South America,Debit Card
+10796,2026-03-25,Clothing,Nike T-shirt,5,1114.74,5573.7,Africa,Credit Card
+10797,2025-10-05,Sports,Basketball,4,1322.56,5290.24,Asia,Net Banking
+10798,2025-04-27,Electronics,Sony Headphones,3,528.69,1586.07,South America,Credit Card
+10799,2025-05-22,Clothing,Jacket,1,1323.1,1323.1,Europe,Debit Card
+10800,2025-09-28,Beauty Products,Shampoo,5,1065.13,5325.65,Europe,Debit Card
+10801,2025-10-06,Clothing,Jacket,3,800.68,2402.04,South America,UPI
+10802,2025-05-08,Books,Rich Dad Poor Dad,2,559.0,1118.0,Europe,Debit Card
+10803,2025-12-29,Clothing,Adidas Shoes,1,673.7,673.7,South America,Net Banking
+10804,2025-06-08,Electronics,Sony Headphones,1,75.84,75.84,South America,Net Banking
+10805,2025-07-13,Beauty Products,Lipstick,3,525.93,1577.79,Africa,UPI
+10806,2025-09-24,Home Appliances,Vacuum Cleaner,1,522.68,522.68,South America,PayPal
+10807,2026-03-08,Home Appliances,Air Purifier,2,471.92,943.84,Africa,Net Banking
+10808,2026-01-23,Home Appliances,Vacuum Cleaner,2,1444.39,2888.78,Africa,PayPal
+10809,2025-08-13,Clothing,Nike T-shirt,2,844.23,1688.46,Europe,Debit Card
+10810,2025-05-04,Books,Harry Potter,5,1832.8,9164.0,Africa,Net Banking
+10811,2025-09-27,Home Appliances,Microwave,3,1199.82,3599.46,Africa,Net Banking
+10812,2025-08-18,Books,Harry Potter,5,1018.56,5092.8,South America,PayPal
+10813,2026-03-24,Books,Harry Potter,1,1104.99,1104.99,South America,Debit Card
+10814,2025-07-26,Home Appliances,Vacuum Cleaner,1,474.28,474.28,South America,Credit Card
+10815,2025-08-24,Home Appliances,Refrigerator,2,1090.25,2180.5,Europe,UPI
+10816,2025-08-27,Home Appliances,Refrigerator,1,1711.33,1711.33,North America,UPI
+10817,2025-06-15,Electronics,iPhone 14,3,1684.93,5054.79,North America,Net Banking
+10818,2025-12-17,Sports,Football,2,921.5,1843.0,Africa,Credit Card
+10819,2025-11-29,Sports,Cricket Bat,1,183.61,183.61,Europe,Net Banking
+10820,2025-07-27,Sports,Football,4,1863.37,7453.48,Europe,Debit Card
+10821,2025-08-19,Books,Deep Work,5,475.86,2379.3,Africa,UPI
+10822,2025-09-13,Books,Harry Potter,5,952.12,4760.6,Africa,UPI
+10823,2026-02-09,Books,Harry Potter,1,1603.14,1603.14,Asia,Credit Card
+10824,2025-07-23,Sports,Basketball,5,324.6,1623.0,South America,PayPal
+10825,2025-07-20,Beauty Products,Perfume,5,1891.55,9457.75,Europe,Net Banking
+10826,2026-01-16,Beauty Products,Perfume,3,1811.53,5434.59,Europe,UPI
+10827,2025-12-28,Clothing,Levi's Jeans,4,364.44,1457.76,North America,Net Banking
+10828,2026-03-25,Clothing,Sweater,4,109.29,437.16,North America,Debit Card
+10829,2025-11-22,Beauty Products,Face Wash,4,310.89,1243.56,Africa,Net Banking
+10830,2026-02-11,Electronics,Sony Headphones,5,1735.4,8677.0,Europe,Credit Card
+10831,2025-07-13,Home Appliances,Refrigerator,4,1555.16,6220.64,North America,Net Banking
+10832,2025-12-28,Sports,Football,5,1571.39,7856.95,North America,Debit Card
+10833,2025-04-28,Beauty Products,Face Wash,5,597.09,2985.45,Europe,UPI
+10834,2026-01-21,Books,Deep Work,1,481.94,481.94,North America,UPI
+10835,2026-01-01,Books,Deep Work,1,1636.89,1636.89,Europe,UPI
+10836,2025-08-22,Home Appliances,Microwave,3,1016.0,3048.0,North America,Credit Card
+10837,2025-09-07,Sports,Tennis Racket,5,1193.35,5966.75,Asia,UPI
+10838,2025-12-04,Electronics,MacBook Air,5,937.85,4689.25,Asia,PayPal
+10839,2025-11-29,Electronics,Sony Headphones,4,1071.63,4286.52,South America,Debit Card
+10840,2025-04-25,Clothing,Levi's Jeans,2,270.44,540.88,South America,Net Banking
+10841,2025-06-21,Books,Rich Dad Poor Dad,2,1954.9,3909.8,South America,UPI
+10842,2026-03-20,Books,Rich Dad Poor Dad,2,1349.09,2698.18,Europe,Debit Card
+10843,2025-05-03,Clothing,Levi's Jeans,5,999.87,4999.35,Africa,Debit Card
+10844,2025-08-01,Electronics,Samsung Galaxy S23,1,750.52,750.52,Asia,Net Banking
+10845,2026-04-07,Home Appliances,Air Purifier,5,1373.44,6867.2,South America,UPI
+10846,2025-06-29,Electronics,iPhone 14,2,1530.3,3060.6,Europe,Debit Card
+10847,2025-05-02,Clothing,Jacket,1,921.85,921.85,North America,PayPal
+10848,2025-07-27,Electronics,MacBook Air,4,1893.14,7572.56,North America,UPI
+10849,2025-09-19,Clothing,Levi's Jeans,5,1081.17,5405.85,Europe,Credit Card
+10850,2026-03-09,Books,Atomic Habits,4,1123.25,4493.0,Europe,Debit Card
+10851,2026-02-09,Clothing,Adidas Shoes,1,1167.94,1167.94,Africa,UPI
+10852,2025-04-30,Sports,Yoga Mat,5,39.86,199.3,Europe,PayPal
+10853,2026-03-03,Beauty Products,Lipstick,4,476.89,1907.56,Africa,PayPal
+10854,2025-07-30,Sports,Basketball,1,1147.35,1147.35,South America,Net Banking
+10855,2026-04-01,Home Appliances,Refrigerator,4,640.38,2561.52,South America,Net Banking
+10856,2025-06-26,Beauty Products,Face Wash,5,1911.08,9555.4,Africa,Net Banking
+10857,2025-06-02,Home Appliances,Washing Machine,1,1876.24,1876.24,Africa,UPI
+10858,2025-09-05,Clothing,Nike T-shirt,2,447.54,895.08,Asia,Net Banking
+10859,2026-01-01,Beauty Products,Perfume,2,409.48,818.96,Asia,UPI
+10860,2025-10-30,Beauty Products,Moisturizer,5,841.46,4207.3,Africa,PayPal
+10861,2026-01-06,Sports,Cricket Bat,5,1395.71,6978.55,Africa,Net Banking
+10862,2026-02-10,Home Appliances,Washing Machine,5,486.13,2430.65,Africa,Debit Card
+10863,2025-08-18,Beauty Products,Shampoo,4,393.12,1572.48,Africa,Credit Card
+10864,2025-08-01,Clothing,Adidas Shoes,3,901.45,2704.35,South America,UPI
+10865,2026-02-24,Electronics,Dell Laptop,2,450.58,901.16,Europe,UPI
+10866,2026-04-02,Clothing,Levi's Jeans,5,1624.99,8124.95,North America,PayPal
+10867,2026-03-19,Books,The Alchemist,3,44.44,133.32,Asia,UPI
+10868,2025-12-07,Clothing,Jacket,1,1563.67,1563.67,Africa,Net Banking
+10869,2025-05-10,Home Appliances,Microwave,5,1968.5,9842.5,South America,Debit Card
+10870,2025-08-19,Clothing,Jacket,3,1393.58,4180.74,South America,Debit Card
+10871,2025-06-07,Clothing,Nike T-shirt,1,275.89,275.89,North America,PayPal
+10872,2025-09-18,Clothing,Nike T-shirt,3,1928.49,5785.47,Europe,Debit Card
+10873,2025-09-06,Books,Deep Work,1,659.61,659.61,Asia,Net Banking
+10874,2025-05-30,Beauty Products,Face Wash,1,778.12,778.12,Africa,Debit Card
+10875,2026-03-26,Books,Atomic Habits,3,984.28,2952.84,Europe,UPI
+10876,2025-10-29,Beauty Products,Perfume,3,1947.29,5841.87,Africa,Net Banking
+10877,2026-02-04,Beauty Products,Shampoo,4,1564.53,6258.12,Africa,Credit Card
+10878,2025-05-25,Books,Atomic Habits,2,1224.52,2449.04,Africa,PayPal
+10879,2025-05-27,Home Appliances,Air Purifier,2,1422.03,2844.06,North America,PayPal
+10880,2026-02-20,Books,Rich Dad Poor Dad,5,451.37,2256.85,North America,Net Banking
+10881,2026-01-07,Home Appliances,Air Purifier,5,1330.22,6651.1,South America,Debit Card
+10882,2025-09-24,Clothing,Nike T-shirt,5,672.91,3364.55,Africa,UPI
+10883,2026-03-25,Sports,Tennis Racket,2,319.28,638.56,Asia,PayPal
+10884,2025-12-25,Home Appliances,Washing Machine,1,351.17,351.17,Europe,UPI
+10885,2025-08-14,Books,The Alchemist,4,311.57,1246.28,North America,UPI
+10886,2025-04-25,Sports,Basketball,3,1933.0,5799.0,Africa,PayPal
+10887,2025-06-20,Electronics,iPhone 14,5,375.4,1877.0,South America,UPI
+10888,2026-02-14,Clothing,Jacket,5,532.46,2662.3,Europe,Net Banking
+10889,2025-08-10,Clothing,Adidas Shoes,4,1062.78,4251.12,North America,PayPal
+10890,2025-08-03,Beauty Products,Lipstick,1,604.46,604.46,South America,PayPal
+10891,2025-04-13,Home Appliances,Air Purifier,2,1647.16,3294.32,Africa,Credit Card
+10892,2025-09-07,Sports,Basketball,5,336.26,1681.3,North America,Debit Card
+10893,2025-08-29,Electronics,Sony Headphones,4,1079.13,4316.52,Europe,UPI
+10894,2025-05-29,Electronics,Dell Laptop,4,964.9,3859.6,Asia,Credit Card
+10895,2026-03-12,Sports,Cricket Bat,3,1458.53,4375.59,North America,Net Banking
+10896,2025-10-05,Clothing,Adidas Shoes,1,106.11,106.11,South America,Credit Card
+10897,2025-08-16,Electronics,MacBook Air,5,1866.45,9332.25,Asia,Credit Card
+10898,2025-08-11,Sports,Tennis Racket,4,839.92,3359.68,Asia,Net Banking
+10899,2026-01-17,Electronics,Samsung Galaxy S23,3,738.99,2216.97,Europe,Credit Card
+10900,2025-07-11,Beauty Products,Lipstick,2,714.09,1428.18,Africa,Debit Card
+10901,2025-07-03,Electronics,iPhone 14,5,1423.02,7115.1,South America,UPI
+10902,2025-04-13,Home Appliances,Washing Machine,5,1298.1,6490.5,South America,Credit Card
+10903,2025-11-04,Books,Rich Dad Poor Dad,5,970.36,4851.8,Africa,Credit Card
+10904,2025-09-02,Books,Harry Potter,4,256.85,1027.4,North America,Debit Card
+10905,2026-02-27,Beauty Products,Lipstick,4,1213.54,4854.16,Asia,Net Banking
+10906,2025-12-12,Electronics,Samsung Galaxy S23,3,1030.5,3091.5,Africa,PayPal
+10907,2026-02-12,Sports,Cricket Bat,4,288.27,1153.08,Europe,Credit Card
+10908,2025-08-19,Beauty Products,Perfume,3,1278.33,3834.99,North America,UPI
+10909,2025-10-07,Home Appliances,Microwave,1,781.13,781.13,Europe,Debit Card
+10910,2026-02-22,Beauty Products,Face Wash,2,1158.38,2316.76,South America,Debit Card
+10911,2026-04-06,Electronics,Sony Headphones,5,920.61,4603.05,South America,Net Banking
+10912,2025-07-09,Home Appliances,Refrigerator,1,733.85,733.85,South America,UPI
+10913,2025-11-12,Books,Harry Potter,4,602.04,2408.16,North America,Net Banking
+10914,2025-04-29,Electronics,iPhone 14,3,1717.38,5152.14,Europe,UPI
+10915,2025-07-04,Sports,Tennis Racket,4,468.46,1873.84,Europe,UPI
+10916,2025-08-26,Beauty Products,Face Wash,4,1908.8,7635.2,Europe,Credit Card
+10917,2025-09-01,Sports,Tennis Racket,2,1680.21,3360.42,North America,Debit Card
+10918,2025-04-21,Sports,Tennis Racket,4,1250.82,5003.28,Europe,PayPal
+10919,2025-08-26,Books,Atomic Habits,4,391.68,1566.72,South America,Credit Card
+10920,2025-08-26,Books,Rich Dad Poor Dad,3,1229.3,3687.9,Africa,PayPal
+10921,2025-08-15,Beauty Products,Lipstick,1,1875.32,1875.32,Asia,UPI
+10922,2026-02-21,Sports,Yoga Mat,3,632.23,1896.69,Africa,PayPal
+10923,2025-04-10,Home Appliances,Washing Machine,5,1742.95,8714.75,North America,Debit Card
+10924,2026-02-02,Home Appliances,Air Purifier,5,790.67,3953.35,South America,Debit Card
+10925,2025-11-22,Beauty Products,Perfume,1,1351.47,1351.47,North America,UPI
+10926,2025-05-28,Sports,Football,3,957.23,2871.69,South America,UPI
+10927,2025-06-17,Beauty Products,Shampoo,4,434.62,1738.48,Africa,PayPal
+10928,2025-04-29,Beauty Products,Moisturizer,1,670.21,670.21,Europe,Debit Card
+10929,2025-11-08,Sports,Basketball,4,1781.39,7125.56,Africa,UPI
+10930,2025-10-10,Clothing,Sweater,1,800.83,800.83,Europe,Credit Card
+10931,2025-08-20,Books,Rich Dad Poor Dad,4,1018.67,4074.68,Europe,Debit Card
+10932,2025-06-16,Books,Deep Work,2,1270.76,2541.52,Europe,Debit Card
+10933,2025-08-18,Books,Rich Dad Poor Dad,5,1246.34,6231.7,Europe,Debit Card
+10934,2025-09-18,Beauty Products,Perfume,1,506.25,506.25,South America,Credit Card
+10935,2025-07-12,Clothing,Sweater,2,641.81,1283.62,North America,Net Banking
+10936,2026-01-04,Books,Atomic Habits,2,1269.81,2539.62,Africa,Credit Card
+10937,2025-08-02,Home Appliances,Vacuum Cleaner,5,871.46,4357.3,South America,Net Banking
+10938,2025-07-16,Beauty Products,Lipstick,1,191.98,191.98,North America,Credit Card
+10939,2025-08-13,Sports,Football,4,1758.94,7035.76,Africa,Debit Card
+10940,2025-12-05,Electronics,Samsung Galaxy S23,1,1389.74,1389.74,South America,UPI
+10941,2026-04-04,Home Appliances,Washing Machine,4,1965.63,7862.52,Asia,Debit Card
+10942,2025-05-17,Sports,Yoga Mat,1,730.56,730.56,North America,Credit Card
+10943,2026-01-06,Electronics,Dell Laptop,3,664.93,1994.79,Africa,Debit Card
+10944,2025-08-30,Books,Rich Dad Poor Dad,2,694.43,1388.86,Africa,Credit Card
+10945,2026-01-17,Beauty Products,Perfume,3,579.77,1739.31,North America,UPI
+10946,2025-07-09,Books,Atomic Habits,3,579.79,1739.37,South America,Net Banking
+10947,2025-12-29,Books,Rich Dad Poor Dad,5,1348.89,6744.45,Africa,UPI
+10948,2026-03-11,Home Appliances,Microwave,2,1896.82,3793.64,South America,Debit Card
+10949,2025-06-08,Electronics,Dell Laptop,3,772.81,2318.43,Africa,Net Banking
+10950,2025-05-26,Electronics,Samsung Galaxy S23,1,1963.01,1963.01,North America,UPI
+10951,2025-06-06,Clothing,Nike T-shirt,3,1856.98,5570.94,Asia,PayPal
+10952,2026-03-14,Electronics,Samsung Galaxy S23,2,450.13,900.26,Asia,PayPal
+10953,2026-03-02,Books,Rich Dad Poor Dad,2,376.78,753.56,North America,Debit Card
+10954,2025-10-04,Electronics,MacBook Air,2,1956.38,3912.76,Europe,UPI
+10955,2025-07-12,Sports,Basketball,1,1503.47,1503.47,South America,Debit Card
+10956,2025-04-13,Clothing,Sweater,5,1108.51,5542.55,Europe,Debit Card
+10957,2026-03-13,Electronics,MacBook Air,4,456.44,1825.76,South America,Net Banking
+10958,2025-04-30,Electronics,Sony Headphones,3,986.08,2958.24,South America,Debit Card
+10959,2025-05-18,Electronics,MacBook Air,5,894.43,4472.15,Asia,PayPal
+10960,2025-08-24,Books,The Alchemist,2,590.08,1180.16,South America,PayPal
+10961,2025-10-23,Beauty Products,Moisturizer,2,360.4,720.8,Africa,Credit Card
+10962,2026-01-01,Books,Harry Potter,3,1783.18,5349.54,Africa,Debit Card
+10963,2025-07-22,Clothing,Levi's Jeans,3,182.28,546.84,Africa,Net Banking
+10964,2025-07-12,Clothing,Jacket,1,1996.57,1996.57,South America,Credit Card
+10965,2025-06-21,Beauty Products,Perfume,5,85.58,427.9,Africa,PayPal
+10966,2025-12-01,Home Appliances,Microwave,5,916.81,4584.05,Africa,Debit Card
+10967,2025-11-18,Books,The Alchemist,5,793.78,3968.9,North America,Credit Card
+10968,2025-10-27,Sports,Tennis Racket,3,1945.35,5836.05,Asia,Net Banking
+10969,2025-06-05,Sports,Cricket Bat,3,177.83,533.49,South America,UPI
+10970,2025-12-04,Books,Harry Potter,5,643.97,3219.85,Africa,PayPal
+10971,2026-01-01,Sports,Cricket Bat,2,739.2,1478.4,South America,Net Banking
+10972,2025-05-28,Books,Deep Work,4,380.76,1523.04,Africa,Net Banking
+10973,2026-03-02,Sports,Basketball,1,104.89,104.89,Asia,PayPal
+10974,2025-09-13,Sports,Basketball,3,842.61,2527.83,Africa,PayPal
+10975,2025-04-13,Sports,Tennis Racket,5,1874.17,9370.85,Asia,UPI
+10976,2025-12-30,Home Appliances,Refrigerator,1,1997.34,1997.34,North America,PayPal
+10977,2025-11-29,Electronics,MacBook Air,1,1377.31,1377.31,Europe,Credit Card
+10978,2025-05-29,Clothing,Sweater,4,1294.95,5179.8,North America,Net Banking
+10979,2026-03-13,Books,Atomic Habits,1,1845.49,1845.49,Europe,Net Banking
+10980,2025-09-25,Clothing,Levi's Jeans,5,826.46,4132.3,Africa,Net Banking
+10981,2025-05-06,Books,Harry Potter,2,1098.67,2197.34,Africa,Debit Card
+10982,2025-05-09,Books,Rich Dad Poor Dad,2,409.82,819.64,North America,UPI
+10983,2025-07-10,Beauty Products,Lipstick,3,129.23,387.69,Asia,PayPal
+10984,2025-07-03,Beauty Products,Shampoo,4,1105.67,4422.68,North America,Credit Card
+10985,2025-09-24,Beauty Products,Shampoo,2,1534.37,3068.74,Asia,Credit Card
+10986,2025-09-09,Clothing,Nike T-shirt,1,936.78,936.78,North America,Net Banking
+10987,2025-06-21,Electronics,Dell Laptop,4,796.43,3185.72,Europe,PayPal
+10988,2026-04-07,Sports,Football,5,960.35,4801.75,North America,Credit Card
+10989,2025-07-08,Electronics,Samsung Galaxy S23,1,1948.12,1948.12,North America,Net Banking
+10990,2025-06-24,Beauty Products,Shampoo,3,487.63,1462.89,North America,Credit Card
+10991,2026-01-08,Books,Deep Work,3,414.72,1244.16,South America,UPI
+10992,2026-01-06,Sports,Cricket Bat,5,68.0,340.0,North America,PayPal
+10993,2025-12-25,Sports,Basketball,1,54.35,54.35,South America,Credit Card
+10994,2025-10-19,Clothing,Jacket,1,1513.62,1513.62,Europe,UPI
+10995,2026-01-02,Beauty Products,Shampoo,5,1044.33,5221.65,South America,Debit Card
+10996,2025-11-06,Electronics,MacBook Air,4,1452.62,5810.48,Africa,Credit Card
+10997,2025-05-05,Sports,Tennis Racket,1,49.26,49.26,South America,Net Banking
+10998,2026-03-27,Beauty Products,Face Wash,5,288.23,1441.15,Africa,Net Banking
+10999,2025-06-23,Books,Rich Dad Poor Dad,4,667.7,2670.8,South America,Credit Card
+11000,2026-03-31,Books,The Alchemist,2,618.11,1236.22,Africa,Net Banking
